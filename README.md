@@ -5,7 +5,46 @@ For more information about the CURIOSS Patterns Practice, please see the "About 
 
 # CURIOSS Patterns
 
-COMING SOON
+We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
+
+**Awareness** 
+
+* [Framework for Managing University OSS](framework-managing-university-oss.md)  
+* [Lunch and Learn](lunch-and-learn.md)
+
+**Diversity, Equity & Inclusion**
+
+* [Open Source Software Prize](open-source-software-prize.md)
+
+**Education and Skills**
+
+* [Open Research Community Accelerator](open-research-community-accelerator.md)  
+* [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)  
+* [Summer Internship Program](summer-internship-program.md)
+
+**Open Source Discovery**
+
+* [Open Source Catalog](open-source-catalog.md)  
+* [Open Source Software Prize](open-source-software-prize.md)  
+* [Open Source Survey](open-source-survey.md)
+
+**Open Source Sustainability**
+
+* [Open Research Community Accelerator](open-research-community-accelerator.md)
+
+**Policy and Governance**
+
+* [Framework for Managing University OSS](framework-managing-university-oss.md)  
+
+**Promoting Best Practices**
+
+* [Framework for Managing University OSS](framework-managing-university-oss.md)  
+* [Open Source Software Prize](open-source-software-prize.md)
+
+**Rewards & Recognition**
+
+* [Open Source Software Prize](open-source-software-prize.md)
+
 
 # About Patterns
 ## What Are Patterns?
