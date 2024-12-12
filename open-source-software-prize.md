@@ -1,8 +1,6 @@
-# Title
+# Open Source Software Prize
 
-Open Source Software Prize
-
-# Pattern Theme / Category
+## Pattern Theme / Category
 
 * OSS Discovery  
 * Reward & Recognition  
