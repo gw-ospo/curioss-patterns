@@ -13,12 +13,7 @@ OSPO is tasked with developing a response to a new federal or funding requiremen
 * A university with a large and diverse research and instructional cohort.
 * New Government Directives or funding programs issue requirements that impact many (or all) Departments within a university.   
 * The response required may vary according to the discipline.
-
-There is a lack of coordination across the university, with individual faculty finding solutions on their own. Interviewing faculty, it quickly became apparent that public access requirements and general data management needs varied widely across disciplines.
-
-The university’s Senate Research Committee was tasked with determining the research data management needs of the university. This was prompted by a formal request from physics and biology faculty for more guidance from the university on how to satisfy new public access requirements from NIH and anticipated future requirements from NSF. These requirements are driven by directives from the White House to make federally-funded research more open and transparent (spelled out in the “Nelson memo”). Specifically, faculty were concerned that they were not compliant with data sharing requirements in their grants, and were not sure how to fulfill them. A particular area of concern was how to make research consistent with FAIR principles, especially when the associated data is large (\> TB). There was also a lack of coordination across the university, with individual faculty largely having to find solutions on their own. 
-
-The request came around the same time that the OSPO was formed. Given the overlap in the OSPO’s mission and the nature of the data, the research committee asked the OSPO to assist in studying the problem and finding solutions.
+* There is a lack of coordination across the university, with individual faculty finding solutions on their own. 
 
 # Forces
 
@@ -34,7 +29,7 @@ The solution below outlines basic core activities to consider:
 
 ## Research
 
-* Conducted interviews with selected faculty and administrative staff.  
+* Conduct interviews with selected faculty and administrative staff.  
 * Review how the new requirement affects a sample of disciplines.  
 * Review how other universities are responding to the requirement.
 
