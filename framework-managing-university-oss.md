@@ -1,6 +1,4 @@
-# Title
-
-Framework for Managing University OSS
+# Framework for Managing University OSS
 
 # Pattern Theme / Category
 
