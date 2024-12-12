@@ -63,4 +63,7 @@ As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that t
 
 The concept of design patterns originated in the field of architecture. Christopher Alexander, an architect, introduced the idea in his book “A Pattern Language: Towns, Buildings, Construction” published in 1977\. Alexander’s work focused on identifying recurring problems in architectural design and proposing solutions that could be reused in different contexts. His patterns were intended to improve the quality of life by creating environments that are functional, aesthetically pleasing, and harmonious.
 
-Alexander’s approach to patterns was revolutionary because it provided a structured method for solving design problems. His patterns were not rigid blueprints but flexible guidelines that could be adapted to specific situations. This adaptability made them highly valuable in architecture and laid the groundwork for their application in other fields.
+Alexander’s approach to patterns was revolutionary because it provided a structured method for solving design problems. His patterns were not rigid blueprints but flexible guidelines that could be adapted to specific situations. This adaptability made them highly valuable in architecture and laid the groundwork for their application in other fields.[^1]
+
+[^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: https://softwarepatternslexicon.com/patterns-lua/1/3/
+
