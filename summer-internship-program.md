@@ -1,6 +1,4 @@
-# Title
-
-Summer Internship Program  
+# Summer Internship Program  
 
 # Pattern Theme / Category
 
