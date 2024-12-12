@@ -34,11 +34,13 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 **Policy and Governance**
 
-* [Framework for Managing University OSS](framework-managing-university-oss.md)  
+* [Framework for Managing University OSS](framework-managing-university-oss.md)
+* [Lunch and Learn](lunch-and-learn.md) 
 
 **Promoting Best Practices**
 
-* [Framework for Managing University OSS](framework-managing-university-oss.md)  
+* [Framework for Managing University OSS](framework-managing-university-oss.md)
+* [Lunch and Learn](lunch-and-learn.md) 
 * [Open Source Software Prize](open-source-software-prize.md)
 
 **Rewards & Recognition**
