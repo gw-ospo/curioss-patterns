@@ -1,6 +1,4 @@
-# Title
-
-OSS Tutorials using Authoring Tools
+# OSS Tutorials using Authoring Tools
 
 # Pattern Theme / Category
 
