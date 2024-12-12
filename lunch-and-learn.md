@@ -2,7 +2,9 @@
 
 # Pattern Theme / Category
 
-Awareness & Education
+*Awareness & Education
+*Policy & Governance
+*Promoting Best Practices
 
 # OSPO Problem / Challenge
 
