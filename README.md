@@ -1,7 +1,7 @@
 # Introduction to the CURIOSS Patterns Practice
 A public repository for the CURIOSS Patterns Practice.
 
-For more information about patterns in general, please see the "About Patterns" section below. 
+For more information about patterns in general, please see the [About Patterns](#about-patterns) section below. 
 
 # CURIOSS Patterns
 
@@ -66,8 +66,10 @@ For CURIOSS Patterns we also include:
 
 * **Title**: A phrase that helps identify the pattern  
 * **Theme/Cateogry**: To help us categorize our patterns  
-* **Summary**: Short summary of what the pattern is about  
 * **Known Instances**: information on known instances of the use of the pattern.
+* **Contributors**: A list of all those who contributed to the creation of the pattern (inside and outside of GitHub).
+
+In some cases, we have even included some personal inspiration from the pattern authors. 
 
 ## Benefits of Patterns
 
@@ -96,7 +98,7 @@ The process of creating patterns involves observation, abstraction, and testing:
 3. **Validation:** The pattern matures as it is applied the pattern in different contexts. This stage confirms its effectiveness and generalizability.  
 4. **Documentation:** Use a consistent format to record the pattern, often as a template, making it accessible for others to use.
 
-As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation, but we hope to add validation over time.
+As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university), but we hope to add further known instances over time.
 
 ## Origins: From Architecture to Software
 
