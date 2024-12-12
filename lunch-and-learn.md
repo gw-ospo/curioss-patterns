@@ -2,13 +2,13 @@
 
 # Pattern Theme / Category
 
-*Awareness & Education
-*Policy & Governance
-*Promoting Best Practices
+- Awareness & Education
+- Policy & Governance
+- Promoting Best Practices
 
 # OSPO Problem / Challenge
 
-OSPO is tasked with developing a response to a new federal or funding requirement across the institution (e.g. updates to requirements in relation to public funding, public access, open access, open science etc.).
+OSPO is tasked with developing a response to a new funding requirement across the institution (e.g. updates to requirements in relation to public funding, public access, open access, open science etc.).
 
 # Context
 
@@ -57,7 +57,7 @@ Interviews with faculty and sample review of grants and what other universities 
 
 The faculty luncheon was a success. Attendees found it extremely useful to hear what type of data other faculty were producing, and what they were doing to share it. They also really enjoyed the opportunity to communicate with others across disciplines and with research and library administrators. There was a strong desire to hold more such events in the future. The faculty’s slides were compiled into a single slide deck, which can be accessed from the OSPO website.
 
-Our investigation and the faculty luncheon resulted in a formal report from the Senate Research Committee to the broader University Senate.   
+Our investigation and the faculty luncheon resulted in a formal report from the Senate Research Committee to the broader University Senate. The OSPO was also tasked with building an online data storage finder tool that will help faculty identify storage and sharing solutions in the future.  
 
 # Known Instances
 
