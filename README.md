@@ -1,7 +1,7 @@
 # Introduction to the CURIOSS Patterns Practice
 A public repository for the CURIOSS Patterns Practice.
 
-For more information about the CURIOSS Patterns Practice, please see the "About Patterns" section below. 
+For more information about patterns in general, please see the "About Patterns" section below. 
 
 # CURIOSS Patterns
 
