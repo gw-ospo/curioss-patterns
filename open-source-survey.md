@@ -1,6 +1,4 @@
-# title
-
-Open Source Survey
+# Open Source Survey
 
 # Pattern Theme / Category
 
