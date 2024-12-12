@@ -1,6 +1,4 @@
-# Title
-
-Open Source Catalog 
+# Open Source Catalog 
 
 # Pattern Theme / Category
 
