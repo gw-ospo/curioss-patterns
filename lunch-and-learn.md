@@ -1,6 +1,4 @@
-# Title
-
-Lunch and Learn
+# Lunch and Learn
 
 # Pattern Theme / Category
 
