@@ -61,6 +61,24 @@ A sample evaluation rubric may include:
 3. **Open Source Best Practices**: Evaluated adherence to principles like transparent development, documentation, and community engagement.  
 4. **Diversity and Inclusion**: May be used as a tie-breaker, prioritizing projects with diverse and inclusive leadership or contributor communities.
 
+Additional evaluation rubrics used by the GW OSPO for their student awards
+
+**Open Source Project Awards**
+
+Criteria - judging based on 4 categories evaluated with equal weight
+* 25% - Reproducibility - care taken to ensure the project is easily and accurately reproducible
+* 25% - Impact - Meaningful and interesting project
+* 25% - Adherence to open-source and software development best practices
+* 25% - Collaboration - inclusivity, cross discipline, demonstrative community building
+
+**Individual Contributor Awards**
+
+Complete applications will be evaluated and must meet a minimum threshold to be entered in the lottery:
+* Must include at least one meaningful contribution of code or documentation addressing existing issues and accepted by the maintainer of an existing active Project
+* The project you contribute to may be a GW or external project, but our evaluation committee will verify that the contributions are beneficial and not trivial
+
+Please take care to understand that project maintainers can be extremely busy, so to be a good open source contributor, follow the codes of conduct and contribution guidelines and focus on tackling existing issues that align with your abilities.  
+
 # Resulting Context
 
 Entrants can be added to the existing project registry of open source projects within the university.
@@ -71,7 +89,8 @@ The open source best practices criterion of the scoring rubric can be used as a 
 
 # Known Instances
 
-[OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
+* [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
+* [GW OSPO Student Awards](https://ospo.gwu.edu/student-awards), George Washington University OSPO Student Award Program - Modeled after Stanford's program, with some modifications.
 
 # References
 
@@ -86,4 +105,5 @@ The open source best practices criterion of the scoring rubric can be used as a 
 * Clare Dillon [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
 * Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
 * Russell Poldrack [https://orcid.org/0000-0001-6755-0259](https://orcid.org/0000-0001-6755-0259)  
-* Francesca Vera [https://orcid.org/0000-0001-8791-3854](https://orcid.org/0000-0001-8791-3854) 
+* Francesca Vera [https://orcid.org/0000-0001-8791-3854](https://orcid.org/0000-0001-8791-3854)
+* David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)
