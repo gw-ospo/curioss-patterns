@@ -61,7 +61,8 @@ Our investigation and the faculty luncheon resulted in a formal report from the 
 
 # Known Instances
 
-[Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
+* [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
+* [GW Coders Lunch & Learn Series](https://gwcoders.github.io/studyGroup/#events), George Washington University - The GW OSPO partners with the existing GW Coders group to increase the series from bi-weekly to weekly while adding an open source and collaborative development focus to the group.
 
 # References
 
