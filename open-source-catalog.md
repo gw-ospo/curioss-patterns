@@ -63,6 +63,7 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 * [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University   
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology  
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
+* [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry), George Washington University
 
 # References
 
