@@ -41,21 +41,27 @@ The survey data enables the university to track OSS projects that had previously
 
 More open source / open science projects are also signposted as contacts by respondents.
 
+Survey findings are used to inform and design services and resources based on users' needs.
+
 The university is also able to incorporate the results into messaging about the importance of supporting open source activity in a research environment.
 
 ## Additional Learning from University of Wisconsin-Madison OSPO
 
 Our OSPO is hosted by the Data Science Institute. We capitalized on the priorities and skill sets of our colleagues there to assist in the discovery process. This led to the development of the campus-wide survey.
 
-The survey provided clear feedback on needs identified.  We shared results with user groups and stakeholders and used it as an opportunity to build relationships and promote the OSPO’s services.
+There were 300 responses to our survey. The results provided clear feedback on needs across campus. We shared results with user groups and stakeholders and used it as an opportunity to build relationships and promote the OSPO’s services.
 
 We also recruited an outreach specialist to contact people identified through initial introductory calls and through the campus-wide OS survey.
 
+## Additional Learning from University of California Santa Barbara
+
+Our survey is still in progress and specifically targets developers and contributors. We're working in collaboration with the Office of Research (OR). The OR is an important partner as they are also responsible for maintaining researcher biobibs which contain listings of all research products.
+
 # Known Instances
 
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute,   
-  University of Wisconsin-Madison  
-* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University 
+* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison  
+* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [UC Santa Barbara](https://ucospo.net/santa-barbara/), [University of California OSPO Network](https://ucospo.net/about/)
 
 # References
 
