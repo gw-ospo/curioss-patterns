@@ -10,11 +10,10 @@ Academic OSPOs need to demonstrate relevance to senior leadership at its institu
 
 # Pattern Category
 
-* Sharing OSS Best Practices  
-* OSS Education & Skills  
-* Supporting OSS development  
-* OSS Advocacy & Policy  
 * Funding & Financial Support
+* Advocacy & Policy  
+* OSS Education & Skills  
+* Supporting OSS development   
 
 # Context
 
