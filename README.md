@@ -27,7 +27,8 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 **Education and Skills**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
-* [Open Research Community Accelerator](open-research-community-accelerator.md)  
+* [Open Research Community Accelerator](open-research-community-accelerator.md)
+* [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)  
 * [Summer Internship Program](summer-internship-program.md)
 
@@ -50,6 +51,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 **Supporting OSS Development**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 
 **Promoting Best Practices**
 
@@ -57,10 +59,13 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md) 
 * [Open Source Software Prize](open-source-software-prize.md)
 
-
 **Rewards & Recognition**
 
 * [Open Source Software Prize](open-source-software-prize.md)
+
+**Tools & Infrastructure**
+
+* [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 
 
 # About Patterns
