@@ -7,7 +7,7 @@ For more information about patterns in general, please see the [About Patterns](
 
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
 
-**Advocacy, Governance and Policy**
+**Advocacy, Governance & Policy**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
@@ -24,7 +24,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 * [Open Source Software Prize](open-source-software-prize.md)
 
-**Education and Skills**
+**Education & Skills**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
@@ -32,7 +32,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)  
 * [Summer Internship Program](summer-internship-program.md)
 
-**Funding and Financial Support**
+**Funding & Financial Support**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
