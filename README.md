@@ -19,6 +19,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 * [Framework for Managing University OSS](framework-managing-university-oss.md)  
 * [Lunch and Learn](lunch-and-learn.md)
+* [Open Source Survey](open-source-survey.md)
 
 **Diversity, Equity & Inclusion**
 
