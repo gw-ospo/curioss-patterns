@@ -2,7 +2,7 @@
 
 # Pattern Summary
 
-The OSPO can provide a range of resources to support grant proposals with an open source software component.
+Provide a range of supports and resources to support funding proposals with an open source software component.
 
 # Problem / Challenge
 
@@ -34,9 +34,10 @@ Other offices that focus on grant submissions may not know of the university OSP
 
 Include the OSPO in the development of grant proposals to improve their prospects for success.
 
-The solution below outlines basic core activities to consider:
+The solution below outlines basic core activities to consider.
 
 ## Raising awareness with key stakeholders
+
 Develop approaches for marketing OSPO support in this area with relevant faculty, researchers and senior leadership. 
 
 Ideally, awareness raising activities should be conducted well in advance of any funding application deadlines. OSPO support for grant proposals can be communicated in:
@@ -64,7 +65,7 @@ Depending on capacity, options for grant support may include:
 
 Offering support with grant proposals develops and strengthens relationships with faculty, researchers and students.
 
-Marketing the OSPO’s services and providing support with funding applications also leads to long-term engagements with research teams to advance their open source software.
+Marketing the OSPO’s services and providing support with funding applications also leads to long-term engagement with research teams to advance their open source software.
 
 The OSPO can also act as a connector between unconnected research teams tackling similar issues.  
 
@@ -86,10 +87,13 @@ We’ve also noted a greater awareness and appreciation for the CMU OSPO and we�
 
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
 
 # References
 
-Open Source Grant Commitment Letter, The GW Open Source Program Office
+* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
+* [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO.
+* 
 
 # Contributors & Acknowledgement
 
