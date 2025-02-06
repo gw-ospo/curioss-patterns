@@ -63,10 +63,11 @@ The initial outcome of this commitment letter is appreciation and education from
 * [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
 
 # References
+
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
 
 # Contributors & Acknowledgement
 
-* David Lippert, The George Washington University, https://orcid.org/0009-0003-6444-9595
+* David Lippert (The George Washington University) https://orcid.org/0009-0003-6444-9595
 * Ciara Flanagan https://orcid.org/0009-0005-3153-7673
