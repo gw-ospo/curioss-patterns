@@ -17,8 +17,8 @@ However, there are a number of challenges:
 # Pattern Category
 
 * OSS Education & Skills  
-* Tools & Infrastructure   
-* Supporting OSS development  
+* Supporting OSS development
+* Tools & Infrastructure
 
 # Context
 
