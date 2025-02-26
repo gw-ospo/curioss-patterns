@@ -10,11 +10,10 @@ Academic OSPOs need to demonstrate relevance to senior leadership at its institu
 
 # Pattern Category
 
-* Sharing OSS Best Practices  
-* OSS Education & Skills  
-* Supporting OSS development  
-* OSS Advocacy & Policy  
 * Funding & Financial Support
+* Advocacy & Policy  
+* OSS Education & Skills  
+* Supporting OSS development   
 
 # Context
 
@@ -28,7 +27,7 @@ There is a gap in long-term funding and it’s unclear whether the OSPO will be 
 
 When decision makers and OSPO champions move to other organizations, their original priorities and support for the OSPO may shift under new leadership.
 
-New senior leaders may not be fully aware of the importance of OSS or the value that an OSPO adds across its institutions.
+New senior leaders may not be fully aware of the importance of OSS or the value that an OSPO adds across the institution.
 
 Other offices may not know of the university OSPO and how it can support them.
 
@@ -38,7 +37,7 @@ Strengthen the OSPO’s prospects for sustainable funding and support by establi
 
 The solution below outlines some core activities to consider:
 
-## Seek partnership with or sponsorship from the Provost or Research Vice President:
+## Seek partnership with or sponsorship from the Provost or Research Vice President
 
 * Connect early and regularly.
 
@@ -48,21 +47,18 @@ The solution below outlines some core activities to consider:
 
 * Develop approaches for marketing OSPO support with relevant faculty, researchers and senior leadership. 
 
-* Attend regular meetings with senior leadership as a platform to share resources, identify needs and to demonstrate value. This may include meetings with: 
+* Attend regular meetings with senior leadership as a platform to share resources, identify needs and to demonstrate value. This may include meetings with the 
+  Provost’s Office, Research Administration Office, Office of Development, College, School and Unit (CSU) Research Deans and the Research Compute/Information 
+  Office.
 
-  𓏸 Provost’s Office
-  𓏸 Research Administration Office
-  𓏸 Office of Development
-  𓏸 College, School and Unit (CSU) Research Deans 
-  𓏸 Research Compute/Information Office
-
-* Provide Development Office staff with facility statements, templates (e.g. open source grant commitment letters) and ‘how to’ resource guidance on funding requests.
+* Provide Development Office staff with facility statements, templates (e.g. open source grant commitment letters) and ‘how to’ resource guidance on funding 
+  requests.
 
 * Request inclusion in all communications and learning offerings from the CSU Research Deans and Research Compute/Information Offices.
 
 ## Operate as a core research function 
 
-Typical activities may include:
+Typical activities may be to: 
 
 * Create a research facility statement, resource statements and/or grant fulfillment/requirement templates that may be included as part of grant applications and grant reporting. 
 
@@ -86,11 +82,8 @@ Typical activities may include:
 
 * Provide a regular account of offerings. (Being able to relate services back to operational methodology or a participation pathway provides additional clarity for key stakeholders.)
 
-* Communicate to audiences across the institution of the OSPO’s:
-  𓏸 Successes
-  𓏸 Challenges (use this an opportunity to request input)
-  𓏸 Facilities and resources
-  𓏸 Support services
+* Communicate to audiences across the institution of the OSPO’s successes, Challenges (use this an opportunity to request input), facilities and resources, and 
+  Support services.
 
 * Communicate alignment with University priorities and goals and the OSPO's role in fulfilling those goals.
 
@@ -104,15 +97,15 @@ Building relationships in the leadership space; communicating about the OSPO and
 
 # Known Instances
 
-[The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
-[CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
-[The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+* [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
+* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 # References
 
 * [The UT OSPO Open Source Participation Pathway](https://opensource.utexas.edu/resources) - an outline of the different stages of open source projects within the context of research development. This pathway is used as a reference point for engaging with user groups and identifying their needs at different points of the pathway.
-* Open Source Grant Commitment Letter - Pattern from the George Washington University OSPO
-* Supporting grant proposals with an open source componence - Pattern from Carnegie Mellon University OSPO
+* [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO
+* [Supporting grant proposals with an open source componence](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md) - Pattern from Carnegie Mellon University OSPO
 
 
 # Contributors & Acknowledgement

@@ -2,11 +2,11 @@
 
 # Pattern Summary
 
-A commitment letter from the OSPO can be included in grant proposals to address funding requirements that research outputs are made publicly available.
+Support faculty and research grant proposals with a commitment letter from the OSPO relating to open source and open requirements.
 
 # Problem / Challenge
 
-* Funders require funded research to make research outputs publicly available.  
+* Funders increasingly require funded research to make research outputs publicly available.  
 * Faculty and researchers may not know how best to demonstrate that their publications, data and/or software will meet these requirements in their funding applications.
 
 # Pattern Category
@@ -20,7 +20,7 @@ A university or research institution that submits grant proposals to federal, st
 
 Faculty and researchers are applying for grants with open source requirements.  
 
-An OSPO has the resources/capacity to supply grant commitment letters (that meet funding application deadlines) and to provide guidance and support to address open requirements after grants are awarded.
+An OSPO with the resources/capacity to supply grant commitment letters (that meet funding application deadlines) and to provide guidance and support to address open requirements after grants are awarded.
 
 # Forces
 
@@ -41,7 +41,9 @@ If the proposal submitted by [NAME OF RESEARCHER/FACULTY MEMBER] entitled [NAME 
 Sincerely
 
 [NAME]
+
 [ROLE]
+
 [NAME OF OSPO]
 
 # Resulting Context
@@ -62,7 +64,10 @@ The initial outcome of this commitment letter is appreciation and education from
 
 # References
 
+* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
+* [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
+
 # Contributors & Acknowledgement
 
-* David Lippert https://orcid.org/0009-0003-6444-9595
+* David Lippert (The George Washington University) https://orcid.org/0009-0003-6444-9595
 * Ciara Flanagan https://orcid.org/0009-0005-3153-7673
