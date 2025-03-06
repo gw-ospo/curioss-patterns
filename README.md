@@ -21,12 +21,20 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source Survey](open-source-survey.md)
 
+**Community Building**
+
+* [Co-hosting Student Events](cohosting-student-events.md)
+* [Open Source Catalog](open-source-catalog.md)  
+* [Open Source Software Prize](open-source-software-prize.md)  
+* [Open Source Survey](open-source-survey.md)
+
 **Diversity, Equity & Inclusion**
 
 * [Open Source Software Prize](open-source-software-prize.md)
 
 **Education & Skills**
 
+* [Co-hosting Student Events](cohosting-student-events.md)
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
