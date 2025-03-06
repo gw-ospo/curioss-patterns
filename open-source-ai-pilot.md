@@ -16,6 +16,7 @@ However, there are a number of challenges:
 
 # Pattern Category
 
+* Demonstrating value as an Academic OSPO
 * OSS Education & Skills  
 * Supporting OSS development
 * Tools & Infrastructure
