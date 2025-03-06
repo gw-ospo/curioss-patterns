@@ -2,7 +2,8 @@
 
 # Pattern Theme / Category
 
-OSS Discovery
+* Community Building
+* OSS Discovery
 
 # OSPO Problem / Challenge
 
