@@ -13,9 +13,10 @@ Provide a range of supports and resources to support funding proposals with an o
 
 # Pattern Category
 
-* OSS Advocacy & Policy  
+* Demonstrating value as an Academic OSPO
 * Funding & Financial Support
-
+* OSS Advocacy & Policy
+  
 # Context
 
 A university or research institution that submits grant proposals to federal, state or private funding sources.
