@@ -14,8 +14,8 @@ However, OSPO staff time and resources are limited.
 # Pattern Category
 
 * Community building   
-* Sharing OSS Best Practices  
-* OSS Education & Skills  
+* Developing and sharing best practices  
+* OSS education & skills  
 
 # Context
 
