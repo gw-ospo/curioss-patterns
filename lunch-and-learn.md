@@ -3,6 +3,7 @@
 # Pattern Theme / Category
 
 - Awareness & Education
+- Demonstrating value as an Academic OSPO
 - Policy & Governance
 - Promoting Best Practices
 
