@@ -11,8 +11,6 @@ Education and Skills
 * A gap in awareness and/or motivation amongst students on best practices in open source and open science.  
 * Students report a lack of ‘hands-on’ opportunities to collaborate/work together on open source projects.
 
-
-
 # Context
 
 A university with a large and diverse research and instructional cohort.
@@ -50,7 +48,6 @@ The solution below outlines basic core activities to consider:
 * Some consideration should be given to any support required by mentors over the course of the internship. This should be explored during consultation or initial discussions with partners.
 
 * An accompanying program curriculum may also include classes, student assignments, coaching, team projects and self-directed tutorials in the form of open educational resources.
-
 
 * Design of curriculum should take into account the diverse range of projects and software that students are likely to be working on.
 
@@ -99,7 +96,7 @@ Our model presents opportunities for developing important soft skills in client 
 
 We successfully met our objective of providing students with the opportunity to experience software engineering in its reality of intra-team communications, software development and delivery at scale. Their internship experiences demonstrated to them that delivering software is about considerably more than “writing the code.”
 
-Additional learning from the Georgia Tech OSPO on the Virtual Summer Internship Program (VSIP)
+## Additional learning from the Georgia Tech OSPO on the Virtual Summer Internship Program (VSIP)
 
 This is an evolving process but we’ve already seen some initial increase in awareness amongst our 30 program participants. 
 
@@ -107,8 +104,7 @@ We plan to continue making improvements to this program and to possibly turn it 
 
 Our hope is that we can use this initial engagement with the internship program as a seed for a wide-reaching, asynchronous and open educational framework that can extend the reach of our OSPO.
 
-As part of this program, we have been working on [open source training notebooks](https://github.com/gt-ospo/oss-training), which present a variety of topics that should enable students and faculty at   
-Georgia Tech to improve the quality of their open source projects. 
+As part of this program, we have been working on [open source training notebooks](https://github.com/gt-ospo/oss-training), which present a variety of topics that should enable students and faculty at Georgia Tech to improve the quality of their open source projects. 
 
 One challenge may be that we should be careful to work closely with other OSPOs and OSS organizations to make sure we are not “recreating” existing resources. A good example of this is our open source code review lecture, which relies heavily on [BSSW’s code review example project](https://code-review.org). 
 
@@ -131,8 +127,8 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 * Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
 * Tom Hughes (Carnegie Mellon University) https://orcid.org/0009-0008-7516-3687  
 * Fang Liu (Georgia Institute of Technology) https://orcid.org/0000-0002-3383-2191  
-* Stephen Walli (Microsoft)  
 * Jeffrey Young (Georgia Institute of Technology) https://orcid.org/0000-0001-9841-4057
+* Stephen Walli (Microsoft)  
 
 ## Thanks to:
 
