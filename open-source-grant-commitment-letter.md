@@ -11,8 +11,9 @@ Support faculty and research grant proposals with a commitment letter from the O
 
 # Pattern Category
 
-* OSS Advocacy & Policy  
+* Demonstrating value as an Academic OSPO
 * Funding & Financial Support
+* OSS Advocacy & Policy  
 
 # Context
 
