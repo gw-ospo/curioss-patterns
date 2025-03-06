@@ -13,7 +13,7 @@ However, OSPO staff time and resources are limited.
 
 # Pattern Category
 
-* Building University OSS Community   
+* Community building   
 * Sharing OSS Best Practices  
 * OSS Education & Skills  
 
