@@ -1,9 +1,9 @@
 # Open Source Survey
 
-# Pattern Theme / Category
+# Pattern Category
 
-* OSS Discovery  
 * Community building
+* OSS Discovery  
 
 # OSPO Problems / Challenges
 
