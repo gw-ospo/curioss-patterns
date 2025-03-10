@@ -2,10 +2,11 @@
 
 ## Pattern Theme / Category
 
+* Community Building
+* DEI
+* Promoting good practices
 * OSS Discovery  
 * Reward & Recognition  
-* Promoting good practices  
-* DEI
 
 # OSPO Problems / Challenges
 

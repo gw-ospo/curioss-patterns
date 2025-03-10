@@ -13,9 +13,10 @@ Provide a range of supports and resources to support funding proposals with an o
 
 # Pattern Category
 
-* OSS Advocacy & Policy  
+* Demonstrating value as an Academic OSPO
 * Funding & Financial Support
-
+* OSS Advocacy & Policy
+  
 # Context
 
 A university or research institution that submits grant proposals to federal, state or private funding sources.
@@ -91,7 +92,7 @@ Weâ€™ve also noted a greater awareness and appreciation for the CMU OSPO and weâ
 
 # References
 
-* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
+* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - Pattern from the UT Austin OSPO.
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO.
 
 # Contributors & Acknowledgement
