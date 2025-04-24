@@ -6,7 +6,7 @@ The OSPO can be embedded as a core research facility of its university through a
 
 # Problem / Challenge
 
-Academic OSPOs need to demonstrate relevance to senior leadership at its institution and ensure their long term future.
+Academic OSPOs need to demonstrate relevance to senior leadership at their institutions and ensure their long term future.
 
 # Pattern Category
 
