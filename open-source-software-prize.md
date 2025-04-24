@@ -27,6 +27,7 @@ A project registry has been set up by the university to track and increase the v
 Many labs and projects are expert practitioners in open source and open science. However, they may not be known or receive due recognition outside of siloed networks within their university.
 
 Researchers and development teams on open science/open source projects are already overburdened.  
+
 There is no clear incentive for open source projects to add their work to the university’s open source project registry.
 
 Without an ‘institutional gatekeeper’ or established framework in relation to open source and open science projects within the university, there is no mechanism for surfacing good practices, or for labs and projects to learn from each other.
