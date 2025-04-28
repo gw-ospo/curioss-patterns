@@ -77,10 +77,16 @@ Student co-hosts who don’t have explicit open source experience may benefit fr
 
 Industry partners may be able to donate swag or small pots of money. This strengthens relationships with industry partners as there is a quick feedback loop on the impact of their funds.
 
+## Additional Learning from George Washington University
+
+When OSPOs are able to provide space, food, spot prizes, or volunteering time, these contributions can go a long way to helping an event succeed and will strengthen connections with student organizations.
+
+Events like hackathons are great opportunities to teach students about open source, community building, how to code collaboratively using git, and more.  Plus, government and industry partners can be invited to scope work and act as mentors and judges all of which can lead to stronger connections between students and open source community leaders.
+
 # Known Instances
 
 [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
-
+[GW OSPO](https://ospo.gwu.edu/), George Washington University
 
 # References
 
@@ -89,6 +95,7 @@ Industry partners may be able to donate swag or small pots of money. This streng
 * [UCSC Hacktoberfest 2024 repository](https://github.com/emmet0r/hacktoberfest-2024)
 * [UCSC’s 2024 Ideathon (included OSPO-sponsored prize track)](https://lu.ma/d8afz220)
 * [OpenHatch: Open Source Comes to Campus](https://github.com/openhatch/open-source-comes-to-campus)
+* [GWU George Hacks - 2025 Innovation Hackathon](https://georgehacks.org)
 
 
 # Contributors & Acknowledgement
@@ -97,3 +104,4 @@ Industry partners may be able to donate swag or small pots of money. This streng
 * Stephanie Lieggi, University of California Santa Cruz, https://orcid.org/0009-0000-5647-6540
 * Yelena Martynovskaya, University of California Santa Cruz 
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
+* David Lippert, George Washington University, [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)
