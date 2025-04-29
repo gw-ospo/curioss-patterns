@@ -1,4 +1,4 @@
-# Organize one-off workshops
+# One-off workshops
 
 # Pattern Summary
 
@@ -6,16 +6,14 @@ Organize short, one-off workshops to educate students, researchers, staff and fa
 
 # Problem / Challenge
 
-There is limited knowledge across a university of how to create and use open source software (OSS) effectively; and how to follow best practices / standards.
+There is limited knowledge across a university of how to create and use open source software (OSS) effectively; and how to follow best practices/standards.
 
 The OSPO has also become aware of basic knowledge gaps in related areas (e.g. open science, computer sciences).
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
-- OSS Education & Skills  
-- Sharing OSS Best Practices
+* OSS Education & Skills  
+* Sharing OSS Best Practices
 
 # Context
 
@@ -35,22 +33,23 @@ There are knowledge gaps amongst some faculty members on open source and best pr
 
 Students and researchers on open science/open source projects are time-poor.
 
-OSPO staff have the resources and capacity to teach or facilitate workshops.
+OSPO staff have the capacity and/or resources to teach or host workshops.
 
 # Solution
 
-Develop and deliver initial, one-off workshops that address very specific knowledge gaps and answer basic questions that can be efficiently resolved in bite-sized training sessions.
+Develop and deliver one-off workshops that address very specific knowledge gaps and basic questions that can be efficiently resolved in bite-sized training sessions.
 
 ## Identify specific knowledge gaps that can be addressed by short workshops
 
 A training needs assessment can be carried out in a number of ways:
-* The OSPO’s one-to-one consultations with students, researchers and faculty. 
+* Individual consultations with students, researchers and faculty. 
 * A survey on training and/or open source needs.
 * Consultation with the OSPO’s advisory committee/user group.
 
 ## Planning 
 
 Planning should take the following into account:
+
 * The cohort that will be targeted.
 * Learning goals.
 * What can realistically be covered in the selected timeframe (e.g. one hour, morning or afternoon workshop). 
@@ -60,9 +59,10 @@ Planning should take the following into account:
 ## Promotion of workshops
 
 Training workshops can be promoted via the following channels:
+
 * The OSPO website and social channels.
 * The OSPO mailing list. 
-* Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science etc.).
+* Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science).
 * Through student groups and students’ informal networks.
 
 ## Workshop delivery
