@@ -1,4 +1,4 @@
-# One-off workshops
+# Organize one-off workshops
 
 # Pattern Summary
 
