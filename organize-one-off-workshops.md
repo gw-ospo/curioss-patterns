@@ -81,9 +81,21 @@ OSPO staff and contacts teach the seminars. Our goal is to hit audiences from ac
 
 We always try to provide lunch at our in-person workshops.
 
+## Additional Learning from University of Wisconsin-Madison
+
+Our curricula is a collaboration with [Software Carpentries](https://software-carpentry.org/) on OSS. 
+
+## Additional Learning from Syracuse University 
+
+We run workshops on computing 101 and intros to Python/R. They usually entail 4-6 x 2 hour segments in the style/format of Carpentries Workshops.
+
 # Known Instances
 
 The [University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+[ETH Transfer](https://ethz.ch/en/industry/transfer.html), ETH Zürich
+[GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+[Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
+[UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 # References
 
