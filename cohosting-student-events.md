@@ -85,8 +85,8 @@ Events like hackathons are great opportunities to teach students about open sour
 
 # Known Instances
 
-[UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
-[GW OSPO](https://ospo.gwu.edu/), George Washington University
+* [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
+* [GW OSPO](https://ospo.gwu.edu/), George Washington University
 
 # References
 
