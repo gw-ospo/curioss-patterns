@@ -38,14 +38,14 @@ Organizing the events in partnership with student organizations gets student buy
 
 Division of tasks may typically be:
 
-## OSPO Staff:
+## OSPO Staff
 
 * Designing the event (based on consultation with student co-hosts).
 * Liaison with potential sponsors (if sponsorship or swag is required).
 * Organizing venue and refreshments.
 * Promoting the event through OSPO channels.
 
-## Students:
+## Students
 
 * Advertising and drumming up excitement amongst networks and informal communication channels (e.g. unofficial Discord servers).
 * Offering the student perspective on planning, logistics, the topic choice and what would make the event valuable.
