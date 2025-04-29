@@ -91,11 +91,11 @@ We run workshops on computing 101 and intros to Python/R. They usually entail 4-
 
 # Known Instances
 
-The [University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
-[ETH Transfer](https://ethz.ch/en/industry/transfer.html), ETH Zürich
-[GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-[Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
-[UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+* The [University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+* [ETH Transfer](https://ethz.ch/en/industry/transfer.html), ETH Zürich
+* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
+* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 # References
 
