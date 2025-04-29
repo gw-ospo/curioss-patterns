@@ -62,7 +62,7 @@ Training workshops can be promoted via the following channels:
 
 * The OSPO website and social channels.
 * The OSPO mailing list. 
-* Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science).
+* Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science, the Library).
 * Through student groups and students’ informal networks.
 
 ## Workshop delivery
@@ -88,6 +88,14 @@ Our curricula is a collaboration with [Software Carpentries](https://software-ca
 ## Additional Learning from Syracuse University 
 
 We run workshops on computing 101 and intros to Python/R. They usually entail 4-6 x 2 hour segments in the style/format of Carpentries Workshops.
+
+## Additional Learning from George Washington University
+
+Timing and marketing can be key to improving attendance at workshops.  For example, our 5 day Python Camp is always sold out becuase it is held right after finals, and it has built up great word of mouth from faculty and students over the many years it has been offered.  It is more challenging to get people to attend new workshops.  Some advice is to keep workshop titles simple like "Intro to Git" and work with faculty champions to help promote the workshops.
+
+Our most successful workshops were tailored for a specific project team.  One such workshop was for an open source project called LAiSER with 20 members.  We coordinated with the projet lead to present targeted information and the team was very grateful to learn about testing, python package management, and community building strategies.
+
+Another successful workshop was held at the George Hacks Innovation Hackathon.  The OSPO sponsored an Open Source Spot prize and therefore we had a captive audience when we presented our Introduction to Open Source workshop.  The students did all the work organizing and marketing the event and we were able to focus on the content and communicating to the students.
 
 # Known Instances
 
