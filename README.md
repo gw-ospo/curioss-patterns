@@ -21,6 +21,14 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source Survey](open-source-survey.md)
 
+**Community Building**
+
+* [Co-hosting Student Events](cohosting-student-events.md)
+* [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Open Source Catalog](open-source-catalog.md)  
+* [Open Source Software Prize](open-source-software-prize.md)  
+* [Open Source Survey](open-source-survey.md)
+
 **Demonstrating value as an Academic OSPO**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
@@ -28,13 +36,6 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
-
-**Community Building**
-
-* [Co-hosting Student Events](cohosting-student-events.md)
-* [Open Source Catalog](open-source-catalog.md)  
-* [Open Source Software Prize](open-source-software-prize.md)  
-* [Open Source Survey](open-source-survey.md)
 
 **Diversity, Equity & Inclusion**
 
@@ -46,12 +47,14 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
+* [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
 * [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)  
 * [Summer Internship Program](summer-internship-program.md)
 
 **Funding & Financial Support**
 
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 
@@ -65,24 +68,34 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 
-**Supporting OSS Development**
-
-* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
-* [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
-
 **Promoting Best Practices**
 
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
+* [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Lunch and Learn](lunch-and-learn.md) 
 * [Open Source Software Prize](open-source-software-prize.md)
+* [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
 
 **Rewards & Recognition**
 
 * [Open Source Software Prize](open-source-software-prize.md)
 
+**Supporting OSS Development**
+
+* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
+
 **Tools & Infrastructure**
 
+* [Co-hosting Student Events](cohosting-student-events.md)
+
+**Working with Tech Transfer / External Partners**
+
+* [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
+* [Summer Internship Program](summer-internship-program.md)
 
 
 # About Patterns
