@@ -2,7 +2,8 @@
 
 # Pattern Theme / Category
 
-Education and Skills
+* Education and Skills
+* Working with Tech Transfer / External Partners
 
 # OSPO Problem / Challenge
 
