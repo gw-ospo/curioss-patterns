@@ -17,8 +17,6 @@ Students, researchers and faculty need guidance to identify the appropriate solu
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
 * Building University OSS Community
 * Sharing OSS Best Practices
 * Working with Tech Transfer / External Partners
@@ -45,7 +43,7 @@ The OSPO or project lead has a working knowledge of and relationships with TTO, 
 
 # Solution
 
-Offer individual consultations or ‘office hours’ as a service to answer questions and/or provide support to open source projects.
+Offer individual consultations or ‘office hours’ as a service to answer questions and/or to provide support to open source projects.
 
 This can be offered through a number of different channels:
 
@@ -71,7 +69,7 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 * [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-* [Innovation Partnerships, MOSS program], University of Michigan
+* [Innovation Partnerships, MOSS program](https://innovationpartnerships.umich.edu/moss/), University of Michigan
 * [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
@@ -83,10 +81,10 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 
 # References
 
-* [Consultations] (https://library.gwu.edu/consultation-services) offered by the GWU OSPO as part of the library’s research consulting services.
+* [Consultations](https://library.gwu.edu/consultation-services) offered by the GWU OSPO are part of the library’s research consulting services.
 * [Consulting services](https://ospo.library.jhu.edu/services/consulting/) offered by Johns Hopkins University OSPO.
 * [Consultations](https://opensource.stanford.edu/) offered by OpenSource@Stanford.
-* [Consultations](https://innovationpartnerships.umich.edu/moss/) offered by Michigan Open Source Software - scroll down to GitHub Garage under “Education”.
+* [Consultations](https://innovationpartnerships.umich.edu/moss/) offered by the MOSS Program - scroll down to GitHub Garage under “Education”.
 * [Consultation services](https://opensource.utexas.edu/connect) offered by the UT-OSPO.
 * [Consultation booking form](https://outlook.office365.com/book/UTOSPOOpenSourceSoftwareConsultation@utexas.onmicrosoft.com/) for the UT-OSPO.
 * [Consultations and other services](https://verso.w3.uvm.edu/services/) offered by VERSO OSPO.
