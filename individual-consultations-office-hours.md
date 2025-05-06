@@ -37,7 +37,7 @@ An OSPO with the resources/capacity to offer one-to-one consultations and any re
 
 Students and researchers do not know how or where to access the information they need. 
 
-OSPO staff have the capacity/availability to meet for consultations.
+OSPO staff have the capacity/availability to meet for consultations and to provide follow-up support.
 
 The OSPO or project lead has a working knowledge of and relationships with TTO, contract, and other staff/faculty who are positioned to support students.
 
