@@ -104,8 +104,6 @@ Including these governance structures in the initial proposal demonstrated insti
 
 # References
 
-List resources or related patterns for further reading.
-
 # Contributors & Acknowledgement
 
 - Allison Kittinger https://orcid.org/0000-0002-3104-5995
