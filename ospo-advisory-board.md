@@ -14,8 +14,6 @@ Academic OSPOs operate in complex institutional environments with diverse stakeh
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
 - Building University OSS Community   
 - Demonstrating value as an academic OSPO
 - Working with Tech Transfer / External Partners  
