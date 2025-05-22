@@ -16,7 +16,8 @@ Explain the problem clearly, providing enough detail for the reader to understan
 
 Below is a list of common categories of academic OSPO activities \- please choose which apply:
 
-- [ ] Building University OSS Community   
+- [ ] Building University OSS Community
+- [ ] Demonstrating value as an OSPO  
 - [ ] Sharing OSS Best Practices  
 - [ ] OSS Education & Skills  
 - [ ] Working with Tech Transfer / External Partners  
