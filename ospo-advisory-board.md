@@ -14,7 +14,7 @@ Academic OSPOs operate in complex institutional environments with diverse stakeh
 
 # Pattern Category
 
-- Building University OSS Community   
+- Community building
 - Demonstrating value as an academic OSPO
 - Working with Tech Transfer / External Partners  
 
