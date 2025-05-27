@@ -28,6 +28,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
+* [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
 
 **Demonstrating value as an Academic OSPO**
 
@@ -35,6 +36,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
+* [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 
 **Diversity, Equity & Inclusion**
@@ -95,6 +97,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
+* [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
 * [Summer Internship Program](summer-internship-program.md)
 
 
