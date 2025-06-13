@@ -54,19 +54,19 @@ Standard documentation templates usually include:
 
 Template documentation can be promoted to the OSS community in a number of ways including:
 
-- Showcasing the documentation on the OSPO website
+- Showcasing documentation templates on the OSPO website.
 - An announcement on other OSPO channels e.g.  mailing list, slack channels.
 - Linking in with relevant student organizations to share information.
 
 # Resulting Context
 
-Researchers and projects have access to templates that will enable them to promote their projects and empower potential contributors to get involved.
+Researchers and projects have access to templates that will enable them to promote their projects and enable potential contributors to get involved.
 
 ## Additional learning from the University of California OSPO Network
 
 We identified this gap in documentation following a scraping exercise of university repositories on GitHub. During outreach to maintainers, we noticed that many didn’t have CONTRIBUTING.MD or CODE_OF_CONDUCT.MD files on their repos.
 
-We started with a TL:DR about preparing for contributions but this was expanded into templates when we discovered that many projects didn’t know how to create their own documents; lacked the confidence about getting started and/or were too busy to work on the documentation themselves.
+We started with a TL:DR about preparing for contributions but this was expanded into templates when we discovered that many projects didn’t know how to create their own documents; lacked the confidence about getting started; or were too busy to work on the documentation themselves.
 
 # Known Instances
 
@@ -74,18 +74,18 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 
 # References
 
-* [Growing a Community Around a Project](https://ucospo.net/oss-resources/) - TL:DR from the UC OSPO network about preparing for contributions.
+* [Growing a Community Around a Project](https://ucospo.net/oss-resources/) - TL:DR from the UC OSPO network about preparing for contributions
 * [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
 * [OpenSauced's guide to becoming a maintainer](https://opensauced.pizza/learn/becoming-a-maintainer)
 * [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem) by Dries Buytaert
 * [“My code is shit”: Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
-* [Astro's Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md))
+* [Astro's Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md)
 * [Checklist for repository documentation](https://github.com/mntnr/audit-templates/blob/master/audit-template.md) by Maintainer Mountaineer
 * [LazyGit - a terminal UI for git commands](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#features)
 
 ## README resources
 * [Drupal Guide to creating README.md](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
-* [Project with academic flavor](https://github.com/chiang-yuan/llamp)[README template from Reddit](https://github.com/Louis3797/awesome-readme-template?tab=readme-ov-file#gem-acknowledgements)
+* [README template from Reddit](https://github.com/Louis3797/awesome-readme-template?tab=readme-ov-file#gem-acknowledgements)
 * [Linux Foundation Beginner’s Guide to Open Source Software Development](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development)
 * [OctoGuide bot that helps contributors adhere to best practices for GitHub repositories](https://octo.guide/)
 * [A standard style for README files](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file#usage) by Richard Littauer
