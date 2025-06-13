@@ -24,6 +24,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 **Community Building**
 
 * [Co-hosting Student Events](cohosting-student-events.md)
+* [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
@@ -72,6 +73,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 **Promoting Best Practices**
 
+* [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Lunch and Learn](lunch-and-learn.md) 
