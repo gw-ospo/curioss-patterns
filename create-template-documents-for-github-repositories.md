@@ -75,7 +75,7 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 # References
 
 * [Growing a Community Around a Project](https://ucospo.net/oss-resources/) - TL:DR from the UC OSPO network about preparing for contributions
-* [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
+* [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/) from OpenSource.net
 * [OpenSauced's guide to becoming a maintainer](https://opensauced.pizza/learn/becoming-a-maintainer)
 * [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem) by Dries Buytaert
 * [“My code is shit”: Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
