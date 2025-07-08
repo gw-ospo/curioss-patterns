@@ -7,7 +7,7 @@ Facilitate relationship building opportunities at open source/academic OSPO conf
 These low barrier prompts support attendees to overcome social hesitation and initiate relevant conversations.
 
 # Problem / Challenge
-A core objective of an academic OSPO conference is to share learning and foster collaborative relationships that will ultimately promote the advancement of open source. However, there are a number of organizational and strategic challenges:
+A core objective of an academic OSPO conference is to share learning and foster collaborative relationships that will ultimately promote the advancement of open source. However, there are a number of logistic challenges:
 
 * Conference agendas are often dense with presentations and workshops, leaving little unstructured time for networking. Without intentional design, opportunities to connect may be missed.
 * Not all participants are equally comfortable with networking. Students, junior researchers, introverted people or newcomers to open source may feel intimidated about approaching others.
