@@ -167,4 +167,4 @@ In alphabetical order:
 * Lorena Barba, George Washington University, https://orcid.org/0000-0001-5812-2711
 * Megan Forbes, Johns Hopkins University, https://orcid.org/0000-0002-2611-1441
 * Sayeed Choudhury, Carnegie Mellon University, https://orcid.org/0000-0003-2891-0543
-* Stephanie Lieggie, University of California Santa Cruz, https://orcid.org/0009-0000-5647-6540
+* Stephanie Lieggi, University of California Santa Cruz, https://orcid.org/0009-0000-5647-6540
