@@ -53,19 +53,19 @@ They also offer strategic and cultural benefits for academic OSPOs including:
 * Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - ultimately extending the conference’s impact well beyond its duration.
 
 # Additional Learning
-## Additional learning from Carnegie Mellon University OSPO
+## Additional Learning from Carnegie Mellon University OSPO
 I attended an event where organizers added a color to your name badge to signal the topic you wanted to talk about. At the reception that evening, I saw another attendee with the same color badge and we immediately started talking. 
 I definitely appreciated it and I think it made it much easier for people to have an initial conversation.
 
-## Additional learning from GW Open Source Program Office
+## Additional Learning from GW Open Source Program Office
 We had a “Contributors Hub” at GW OSCON with coffee, food and tables for sponsors and GW organizations. We scheduled long breaks throughout the day and encouraged attendees to check it out.
 
 We also included an [open source art activity](https://gw-ospo.github.io/gwoscon2025/) to guide people to make their first open source contribution. This was a simple photo of a drawing uploaded to our project. Each new merged PR was displayed on a big screen using p5.js.
 
-## Additional learning from University of California Davis OSPO, UC OSPO Network
+## Additional Learning from University of California Davis OSPO, UC OSPO Network
 Something I've seen at an event is attaching ribbons to the bottom of your name badge to represent a number of topics that you may want to talk about with others. This worked really well. 
 
-## Additional learning from University of California Santa Cruz OSPO, UC OSPO Network
+## Additional Learning from University of California Santa Cruz OSPO, UC OSPO Network
 Right before the reception at the end of our event, we facilitated a round of ‘Lightning Intros’ of 30 seconds to one minute. Anybody could get up, introduce themselves and say what they wanted to talk about with people. It was really fun. We saw people taking notes about who they wanted to talk to. We got good feedback on the exercise.
 
 We advertised the lightning intros in advance of the event. We also personally emailed people whom we hoped would participate. We reminded people to sign up for the Lightning Intros on the morning of the event.
