@@ -2,7 +2,7 @@
 
 # Pattern Theme / Category
 
-Resources and content
+Education and Skills
 
 # OSPO Problem / Challenge
 
