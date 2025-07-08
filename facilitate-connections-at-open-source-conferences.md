@@ -50,7 +50,7 @@ They also offer strategic and cultural benefits for academic OSPOs including:
 * Structured relationship building reinforces the OSPO brand as an essential ‘connector’ of people and projects within the open source ecosystem.
 * Academic OSPOs often convene researchers from various fields. Connection tools  allow attendees from diverse disciplines to efficiently discover mutual interests and identify common ground.
 * Icebreakers and tools democratize conversation by empowering introverts, first-time attendees, or underrepresented voices to engage. A well-designed badge or structured activity offers a non-threatening entry point to dialogue and contributes to a more welcoming and equitable environment.
-* Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - extending the conference’s impact well beyond its duration.
+* Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - ultimately extending the conference’s impact well beyond its duration.
 
 # Additional Learning
 ## Additional learning from Carnegie Mellon University OSPO
