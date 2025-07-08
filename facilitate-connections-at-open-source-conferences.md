@@ -36,7 +36,7 @@ An event or conference has been organized by the OSPO.
 Build low-pressure icebreaker activities and conversation starting tools that support connection making into the conference experience. 
 
 Examples may include: 
-* [Interaction badges]([interaction badges](https://stimpunks.org/fieldguide/events/access/interaction-badges/) with prompts such as ‘Ask me about …’ or ‘Seeking partnerships in …’
+* [Interaction badges](https://stimpunks.org/fieldguide/events/access/interaction-badges/) with prompts such as ‘Ask me about …’ or ‘Seeking partnerships in …’
 * Structured mingling activities such as speed networking where attendees rotate and have brief timed conversations with each other.
 * Roundtables that create targeted opportunities for attendees to find collaborators, mentors, or contributors who aligned with their open source or academic goals.
 * Explain the [Pac-Man Rule](https://psychsafety.com/the-pac-man-rule/) and encourage all conference participants to follow this rule during hallway conversations and networking opportunities.
@@ -57,10 +57,10 @@ They also offer strategic and cultural benefits for academic OSPOs including:
 I attended an event where organizers added a color to your name badge to signal the topic you wanted to talk about. At the reception that evening, I saw another attendee with the same color badge and we immediately started talking. 
 I definitely appreciated it and I think it made it much easier for people to have an initial conversation.
 
-## Additional learning from GW OSPO
-We had a “Contributors Hub” at our GW OSCON with coffee, food and tables for sponsors and GW organizations. We scheduled long breaks throughout the day and encouraged attendees to go check it out.
+## Additional learning from GW Open Source Program Office
+We had a “Contributors Hub” at GW OSCON with coffee, food and tables for sponsors and GW organizations. We scheduled long breaks throughout the day and encouraged attendees to check it out.
 
-We included an [open source art activity](https://gw-ospo.github.io/gwoscon2025/) to guide people to make their first open source contribution. This was a simple photo of a drawing uploaded to our project. Each new merged PR was displayed on a big screen using p5.js.
+We also included an [open source art activity](https://gw-ospo.github.io/gwoscon2025/) to guide people to make their first open source contribution. This was a simple photo of a drawing uploaded to our project. Each new merged PR was displayed on a big screen using p5.js.
 
 ## Additional learning from University of California Davis OSPO, UC OSPO Network
 Something I've seen at an event is attaching ribbons to the bottom of your name badge to represent a number of topics that you may want to talk about with others. This worked really well. 
@@ -71,13 +71,14 @@ Right before the reception at the end of our event, we facilitated a round of �
 We advertised the lightning intros in advance of the event. We also personally emailed people whom we hoped would participate. We reminded people to sign up for the Lightning Intros on the morning of the event.
 
 # Known Instances
-
-* [GW OSCON](https://ospo.gwu.edu/oscon-2025)
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), [UC OSPO Network](https://ucospo.net/), University of California Santa Cruz
+*[GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+*[UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
 
 # References
+* [GW OSCON 2025](https://ospo.gwu.edu/oscon-2025)
+* [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/) 
 
-# Related Patterns
+## Related Patterns
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
