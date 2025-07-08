@@ -36,16 +36,16 @@ The solution below outlines some core activities to consider:
 
 ## Identify Potential Sponsors
 Conduct a mapping exercise of potential sponsors including:
-* Local tech companies, startups, and campus-adjacent businesses that may benefit from visibility or hiring opportunities.
+* Local tech companies, startups and campus-adjacent businesses that may benefit from visibility or hiring opportunities.
 * Research open source projects and foundations with funding capacity or community-building mandates.
 * Organizations already interacting with your academic community (e.g., via internships, joint research, GitHub contributions, IT services).
 
 ## Create a Sponsorship Prospectus
 Develop a concise, professionally branded sponsorship package that outlines:
-* Event purpose and audience (students, researchers, developers)
-* Sponsorship tiers and benefits (logo placement, speaking slots, booth/table, recruiting access)
-* Impact metrics (expected attendance, demographics, institutional affiliation)
-* Clear call-to-action (how to get involved)
+* Event purpose and audience (students, researchers, developers).
+* Sponsorship tiers and benefits (logo placement, speaking slots, booth/table, recruiting access).
+* Impact metrics (expected attendance, demographics, institutional affiliation).
+* A clear call-to-action (how to get involved).
 
 The prospectus should also include alignment with academic values (e.g., open knowledge, inclusion, research impact) to appeal to mission-driven sponsors.
 
@@ -70,7 +70,7 @@ There are a wide range of benefits from securing sponsorship for OSPO conference
 
 **Stronger industry-academia relationships:** Engaging local companies and open source projects builds long-term relationships that can be mutually beneficial for all parties (e.g. internships, new talent pipelines, collaboration, future funding opportunities).
 
-**Mission alignment with open source projects:** Sponsorships from open source projects reinforce shared values like community-building, transparency, and knowledge sharing. This strengthens the OSPO's role as a connector between academia and open source.
+**Mission alignment with open source projects:** Sponsorship from open source projects reinforces shared values like community-building, transparency, and knowledge sharing. This strengthens the OSPO's role as a connector between academia and open source.
 
 **Improved conference experience:** More resources translate into more speakers,  better venues, side events and technical infrastructure. This enhances the overall experience for all participants.
 
@@ -80,7 +80,7 @@ We really benefited from our engaged program and planning committee members who 
 
 We were able to get impressive keynote speakers from NASA and GW to commit early and we included this in our sponsor prospectus. We were lucky to get sponsors who are (for the most part) good open source community members so they truly contributed to the conference.  
 
-We also connected to local OSS community to get speakers and active participants (e.g. CMS, DC Civic Tech, GW projects).
+We also connected to the local OSS community to get speakers and active participants (e.g. CMS, DC Civic Tech, GW projects).
 
 ## Additional learning for the University of California OSPO Network
 We used a lot of our sponsorship to pay for travel costs. Interestingly, this wasn’t just for speakers - it was also for some participants. We were very focused on getting key people in the room together. 
@@ -96,7 +96,7 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 
 # Related Patterns
 Related Patterns
-* [Co-hosting Student Events[(https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
+* [Co-hosting Student Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 
 # Contributors & Acknowledgement
