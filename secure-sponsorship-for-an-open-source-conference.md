@@ -94,9 +94,9 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 * [Sponsor Prospectus for GW OSCON 2025](https://gwu.box.com/s/t85385ljfie6ixtt0zxx2mnw6nxh40mx)
 * [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/) sponsors listed above summit agenda.
 
-# Related Patterns
-Related Patterns
+## Related Patterns
 * [Co-hosting Student Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
+* [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 
 # Contributors & Acknowledgement
