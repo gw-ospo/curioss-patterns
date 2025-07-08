@@ -71,8 +71,8 @@ Right before the reception at the end of our event, we facilitated a round of â€
 We advertised the lightning intros in advance of the event. We also personally emailed people whom we hoped would participate. We reminded people to sign up for the Lightning Intros on the morning of the event.
 
 # Known Instances
-*[GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-*[UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
+* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
 
 # References
 * [GW OSCON 2025](https://ospo.gwu.edu/oscon-2025)
