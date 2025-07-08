@@ -97,6 +97,10 @@ Events like hackathons are great opportunities to teach students about open sour
 * [OpenHatch: Open Source Comes to Campus](https://github.com/openhatch/open-source-comes-to-campus)
 * [GWU George Hacks - 2025 Innovation Hackathon](https://georgehacks.org)
 
+## Related Patterns
+* [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
+* [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 
 # Contributors & Acknowledgement
 
