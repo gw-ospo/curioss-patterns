@@ -121,8 +121,10 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 * [summer-internship-program](https://github.com/gt-ospo/summer-internship-program) \- Public archival site for the Georgia Tech OSPO VSIP.  
 * [Training modules for getting started with open source software development](https://github.com/gt-ospo/oss-training) \- Open training notebooks developed for VSIP students that will also enable other students and faculty to improve the quality of their open source projects. (Materials remain under development.)
 
-# Contributor(s) & Acknowledgment
+## Related Patterns
+[Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/edit/main/student-showcase-sessions-at-ospo-events.md)
 
+# Contributor(s) & Acknowledgment
 * Sayeed Choudhury (Carnegie Mellon University)
 * Clare Dillon (CURIOSS) [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
 * Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
