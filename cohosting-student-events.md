@@ -79,9 +79,11 @@ Industry partners may be able to donate swag or small pots of money. This streng
 
 ## Additional Learning from George Washington University
 
-When OSPOs are able to provide space, food, spot prizes, or volunteering time, these contributions can go a long way to helping an event succeed and will strengthen connections with student organizations.
+When OSPOs are able to provide space, food, spot prizes, or volunteering time, these contributions can go a long way to helping an event succeed and will strengthen connections with student organizations. 
 
 Events like hackathons are great opportunities to teach students about open source, community building, how to code collaboratively using git, and more.  Plus, government and industry partners can be invited to scope work and act as mentors and judges all of which can lead to stronger connections between students and open source community leaders.
+
+We worked with the student run group George Hacks and became a sponsor of their annual Innovation Hackathon. We provided a $500 open source spot prize to encourage teams to develop publicly available open source solutions.  We also presented a problem statement in collaboration with the Centers for Medicare and Medicaid (CMS) OSPO and we gave two workshops and we participated as mentors during the event.  The students did all the work organizing the event and they did a fantastic job and over 150 students attended.
 
 # Known Instances
 
