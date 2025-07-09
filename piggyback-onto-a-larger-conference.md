@@ -80,7 +80,10 @@ At a smaller scale, we hold OSPO talks with local meet up groups where OSPO staf
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
 # Contributors & Acknowledgement
 In alphabetical order
