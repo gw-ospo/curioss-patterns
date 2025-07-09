@@ -86,7 +86,7 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 
 # Known Instances
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of Santa Cruz, University of California OSPO Network
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of Santa Cruz, [University of California OSPO Network](https://ucospo.net/events/uc-open-4-2025/)
 
 # References
 * [GW OSCON](https://ospo.gwu.edu/oscon-2025) sponsors listed at the end of the page.
