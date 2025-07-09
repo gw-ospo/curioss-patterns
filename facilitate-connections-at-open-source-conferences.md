@@ -52,7 +52,6 @@ They also offer strategic and cultural benefits for academic OSPOs including:
 * Icebreakers and tools democratize conversation by empowering introverts, first-time attendees, or underrepresented voices to engage. A well-designed badge or structured activity offers a non-threatening entry point to dialogue and contributes to a more welcoming and equitable environment.
 * Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - ultimately extending the conference’s impact well beyond its duration.
 
-# Additional Learning
 ## Additional Learning from Carnegie Mellon University OSPO
 I attended an event where organizers added a color to your name badge to signal the topic you wanted to talk about. At the reception that evening, I saw another attendee with the same color badge and we immediately started talking. 
 I definitely appreciated it and I think it made it much easier for people to have an initial conversation.
@@ -81,7 +80,11 @@ We advertised the lightning intros in advance of the event. We also personally e
 ## Related Patterns
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
 # Contributors & Acknowledgement
 In alphabetical order
