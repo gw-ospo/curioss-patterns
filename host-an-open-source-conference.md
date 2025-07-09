@@ -106,8 +106,6 @@ There are a wide range of potential benefits to hosting a conference or event fo
 
 **Documentation and Legacy:** Conferences often result in articles, videos, and other artifacts that serve as resources and inspiration long after the event ends.
 
-# Additional Learning
-
 ## Additional Learning from the Georgia Tech Open Source Program Office
 We also provide information about funding opportunities such as the [Pathways to Enable Open-Source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) at our conferences. This is a great way to connect projects to funding programs that they may not be aware of.
 
@@ -115,7 +113,6 @@ We also provide information about funding opportunities such as the [Pathways to
 We used [Drupal](https://new.drupal.org/home) to host our conference pages and to manage our registration and CFP forms.  
 
 We also used [VolunteerSignup](https://volunteersignup.org/) which is free for non-commercial use (but may not be open source). 
-
 
 # Known Instances
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
@@ -140,7 +137,6 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 * [Johns Hopkins University, Free and Open Source Project Fund Summative Event](https://ospo.library.jhu.edu/services/free-and-open-source-software-project-fund-fossprof/fossprof-summative-event/)
 * [University of Vermont Open Science Summit](https://verso.w3.uvm.edu/data-open-science-summit/)
 
-
 ## Academic Conference Planning Resources
 * Ex Ordo’s [No-Panic Guide to Organising Successful Scholarly Events](https://www.exordo.com/blog/guide-to-academic-conferences) A practical guide aimed at simplifying the conference planning process. It includes tips on abstract management, scheduling, and leveraging technology to streamline event organization. 
 * Fourwaves’ [13 Steps to Plan a Great Research Conference](https://fourwaves.com/blog/how-to-plan-your-scientific-conference/) A step-by-step approach to organizing scientific conferences, covering everything from defining objectives and assembling a planning committee to budgeting and selecting keynote speakers. 
@@ -150,7 +146,11 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 ## Related Patterns
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
 # Contributors & Acknowledgement
 In alphabetical order:
