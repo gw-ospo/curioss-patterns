@@ -9,9 +9,9 @@ Build the visibility of an academic OSPO by attaching typical conference activit
 An academic OSPO lacks the community size or resources to host its own standalone conference or summit.
 
 # Pattern Category
-
 - Building University OSS Community
-- OSS Education & Skills  
+- OSS Education & Skills
+- Raising awareness 
 - Sharing OSS Best Practices  
 - Supporting OSS development  
 - Working with Tech Transfer / External Partners  
