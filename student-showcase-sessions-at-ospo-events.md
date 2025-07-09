@@ -24,8 +24,6 @@ A university with diverse departments of varying levels of OSS expertise and nee
 An OSPO has been established.
 
 # Forces
-Students, researchers and faculty do not know how or where to access information and support from the OSPO that they need.
-
 An OSPO with the capacity to organize / co-organize events.
 
 An event or conference has been organized by the OSPO and a program committee is in place.
