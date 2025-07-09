@@ -8,105 +8,122 @@ For more information about patterns in general, please see the [About Patterns](
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
 
 **Advocacy, Governance & Policy**
-
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 
 **Awareness** 
-
-* [Framework for Managing University OSS](framework-managing-university-oss.md)  
+* [Framework for Managing University OSS](framework-managing-university-oss.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source Survey](open-source-survey.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
 **Community Building**
-
+* [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Co-hosting Student Events](cohosting-student-events.md)
 * [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
+* [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Demonstrating value as an Academic OSPO**
-
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 
 **Diversity, Equity & Inclusion**
-
 * [Open Source Software Prize](open-source-software-prize.md)
 
 **Education & Skills**
-
 * [Co-hosting Student Events](cohosting-student-events.md)
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
-* [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)  
+* [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Summer Internship Program](summer-internship-program.md)
 
 **Funding & Financial Support**
-
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
+* [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Open Source Discovery**
-
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
 
 **Open Source Sustainability**
-
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 
 **Promoting Best Practices**
-
 * [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Lunch and Learn](lunch-and-learn.md) 
 * [Open Source Software Prize](open-source-software-prize.md)
 * [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Rewards & Recognition**
-
 * [Open Source Software Prize](open-source-software-prize.md)
 
 **Supporting OSS Development**
-
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Tools & Infrastructure**
-
 * [Co-hosting Student Events](cohosting-student-events.md)
 
 **Working with Tech Transfer / External Partners**
-
+* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 * [Summer Internship Program](summer-internship-program.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
-
 
 # About Patterns
 ## What Are Patterns?
