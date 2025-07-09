@@ -80,6 +80,7 @@ Scroll down the agenda for the [Open Source and Scientific Software Workshop](ht
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/edit/main/summer-internship-program.md)
 
 # Contributors & Acknowledgement
