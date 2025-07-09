@@ -74,7 +74,6 @@ There are a wide range of benefits from securing sponsorship for OSPO conference
 
 **Improved conference experience:** More resources translate into more speakers,  better venues, side events and technical infrastructure. This enhances the overall experience for all participants.
 
-# Additional Learning
 ## Additional Learning from the GW Open Source Program Office
 We really benefited from our engaged program and planning committee members who had good contacts. Specifically, a key member of our IT department, who is heavily involved in procurement for the university, brought in two sponsors. One of our OSPO leadership also sourced funding from our gold sponsor at a conference. In the future we hope to leverage some alumni connections.
 
@@ -98,7 +97,11 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 * [Co-hosting Student Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
-
+* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
+  
 # Contributors & Acknowledgement
 In alphabetical order:
 
