@@ -57,7 +57,7 @@ We hosted a semi-annual 3-day Research Software Engineering workshop that is run
 ## Additional Learning from the Georgia Tech Open Source Program Office
 We’ve held a yearly summit for the past two years. In our first year, we piggybacked onto another conference hosted by a very closely related group, the Scientific Software Center. It was particularly useful as it brought the OSPO and our work to a much wider audience - people who weren’t solely focused on open source.
 
-## Additional Learning from the VERSO OSPO
+## Additional Learning from the Vermont Research Open Source Program Office (VERSO)
 We regularly co-organize or provide a supporting role in larger events in order to bring content about open source and our OSPO’s activities to a wider audience. We facilitate a range of activities from speaking, organising talks, hosting tracks on open source to organizing presentations/workshops from external organizations. 
 
 At a smaller scale, we hold OSPO talks with local meet up groups where OSPO staff speak about our activities.
