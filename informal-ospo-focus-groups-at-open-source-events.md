@@ -13,24 +13,21 @@ Academic OSPOs may have a limited understanding of their community's actual need
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
 - Building University OSS Community
-- OSS Advocacy & Policy  
-- Sharing OSS Best Practices  
+- Demonstrating value as an OSPO
 - Supporting OSS development  
 
 # Context
+A university with diverse departments of varying levels of OSS expertise and needs.
+
+An OSPO has been established.
+
+# Forces
 Students, researchers and faculty do not know how or where to access information and support from the OSPO that they need.
 
 An event or conference has been organized by the OSPO.
 
 Colleagues or volunteers are available to facilitate and take notes at a session about the OSPO.
-
-# Forces
-A university with diverse departments of varying levels of OSS expertise and needs.
-
-An OSPO has been established.
 
 # Solution
 Dedicate a session specifically designed as an informal focus group. Some suggested actions include:
@@ -60,7 +57,7 @@ Consider important, relevant information that your OSPO needs from the community
 * What support would be most valuable to your work?
 * What barriers prevent you from engaging with open source?
 * What do you know about the Open Source Program Office?
-* How did you hear 'Open Source Program Office?
+* How did you hear about the Open Source Program Office?
 
 ## Other Considerations
 * If possible, plan for 90-120 minutes to allow for meaningful discussion.
@@ -73,8 +70,10 @@ The informal focus group enables authentic exchange between the OSPO and the wid
 
 Community members have a valuable space to share honest feedback about open source within the institution and OSPO services while the OSPO gains nuanced insights from the community that will inform future planning and activities. 
 
+Feedback may also demonstrate the positive impact that the OSPO is having with different cohorts on campus.
+
 ## Additional learning from the University of California OSPO Network
-Instead of a ‘Closing Remarks’ session at the end of our conference, we facilitated a ‘Closing Directed Discussion' where we prompted conversations about what the OSPO could do for them. 
+Instead of a ‘Closing Remarks’ session at the end of our conference, we facilitated a ‘Closing Directed Discussion' where we prompted conversations about what the OSPO could do for the university. 
 
 Attendees had had two days of listening to us talking about things so they had lots of ‘percolation time’. We found that we’re either planning or in the process of setting up about 80% of the supports that people said they wanted. The other 20% are new ideas that will inform what we do next. 
 
@@ -82,7 +81,7 @@ Attendees had had two days of listening to us talking about things so they had l
 * [University of California OSPO Network](https://ucospo.net/)
 
 # References
-[UC Open 2025](https://ucospo.net/events/uc-open-4-2025/) - scroll down the agenda for ‘How can we help? Academic OSPOs making an impact at UC’
+[UC Open 2025](https://ucospo.net/events/uc-open-4-2025/) - scroll down the agenda for ‘How can we help? Academic OSPOs making an impact at UC’'
 
 ## Related patterns
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
