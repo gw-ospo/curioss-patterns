@@ -52,6 +52,11 @@ They also offer strategic and cultural benefits for academic OSPOs including:
 * Icebreakers and tools democratize conversation by empowering introverts, first-time attendees, or underrepresented voices to engage. A well-designed badge or structured activity offers a non-threatening entry point to dialogue and contributes to a more welcoming and equitable environment.
 * Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - ultimately extending the conference’s impact well beyond its duration.
 
+## Additional Learning from University of California Santa Cruz OSPO, UC OSPO Network
+Right before the reception at the end of our event, we facilitated a round of ‘Lightning Intros’ of 30 seconds to one minute. Anybody could get up, introduce themselves and say what they wanted to talk about with people. It was really fun. We saw people taking notes about who they wanted to talk to. We got good feedback on the exercise.
+
+We advertised the lightning intros in advance of the event. We also personally emailed people whom we hoped would participate. We reminded people to sign up for the Lightning Intros on the morning of the event.
+
 ## Additional Learning from Carnegie Mellon University OSPO
 I attended an event where organizers added a color to your name badge to signal the topic you wanted to talk about. At the reception that evening, I saw another attendee with the same color badge and we immediately started talking. 
 I definitely appreciated it and I think it made it much easier for people to have an initial conversation.
@@ -63,11 +68,6 @@ We also included an [open source art activity](https://gw-ospo.github.io/gwoscon
 
 ## Additional Learning from University of California Davis OSPO, UC OSPO Network
 Something I've seen at an event is attaching ribbons to the bottom of your name badge to represent a number of topics that you may want to talk about with others. This worked really well. 
-
-## Additional Learning from University of California Santa Cruz OSPO, UC OSPO Network
-Right before the reception at the end of our event, we facilitated a round of ‘Lightning Intros’ of 30 seconds to one minute. Anybody could get up, introduce themselves and say what they wanted to talk about with people. It was really fun. We saw people taking notes about who they wanted to talk to. We got good feedback on the exercise.
-
-We advertised the lightning intros in advance of the event. We also personally emailed people whom we hoped would participate. We reminded people to sign up for the Lightning Intros on the morning of the event.
 
 # Known Instances
 * [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
