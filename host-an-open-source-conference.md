@@ -15,6 +15,7 @@ A lack of awareness and visibility of an academic OSPO may create a number of ch
 
 # Pattern Category
 
+- Raising awareness
 - Building University OSS Community
 - Demonstrating value as an OSPO
 - Funding & Financial Support
