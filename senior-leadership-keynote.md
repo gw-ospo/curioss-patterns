@@ -12,7 +12,8 @@ Without visible leadership support, open source conferences risk being seen as n
 
 # Pattern Category
 - Demonstrating value as an OSPO
-- OSS Advocacy & Policy  
+- OSS Advocacy & Policy
+- Raising awareness
    
 # Context
 A university with diverse departments of varying levels of OSS expertise and needs.
