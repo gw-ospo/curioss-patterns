@@ -11,7 +11,8 @@ Open source work may also be viewed as peripheral to the university's core acade
 Without visible leadership support, open source conferences risk being seen as niche technical events rather than strategic institutional priorities. 
 
 # Pattern Category
-OSS Advocacy & Policy  
+- Demonstrating value as an OSPO
+- OSS Advocacy & Policy  
    
 # Context
 A university with diverse departments of varying levels of OSS expertise and needs.
@@ -21,7 +22,7 @@ An OSPO has been established.
 # Forces
 An OSPO with the capacity to organize / co-organize events.
 
-An event or conference has been organized by the OSPO and a program committee is in place.
+A conference has been organized by the OSPO and a program committee is in place.
 
 University leadership wants to demonstrate innovation and forward-thinking approaches.
 
