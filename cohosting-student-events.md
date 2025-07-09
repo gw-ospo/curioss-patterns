@@ -85,6 +85,8 @@ Events like hackathons are great opportunities to teach students about open sour
 
 We worked with the student run group George Hacks and became a sponsor of their annual Innovation Hackathon. We provided a $500 open source spot prize to encourage teams to develop publicly available open source solutions.  We also presented a problem statement in collaboration with the Centers for Medicare and Medicaid (CMS) OSPO and we gave two workshops and we participated as mentors during the event.  The students did all the work organizing the event and they did a fantastic job and over 150 students attended.
 
+We also hosted a one-day bootcamp for a GW open source data science project called LAiSER for about 20 students. The OSPO provided a large library conference space and gave a 30 minute open source overview presentation. The LAiSER project organized the event, paid for food and coffee and had plenty of volunteers for setup and clean-up.
+
 # Known Instances
 
 * [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
