@@ -15,7 +15,8 @@ There may also be a limited awareness of the OSPO’s student-focused initiative
 - Building University OSS Community
 - Demonstrating value as an OSPO
 - OSS Advocacy & Policy
-- OSS Education & Skills  
+- OSS Education & Skills
+- Raising awareness
 - Supporting OSS development  
 
 # Context
