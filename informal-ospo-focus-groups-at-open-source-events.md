@@ -78,7 +78,7 @@ Instead of a ‘Closing Remarks’ session at the end of our conference, we faci
 Attendees had had two days of listening to us talking about things so they had lots of ‘percolation time’. We found that we’re either planning or in the process of setting up about 80% of the supports that people said they wanted. The other 20% are new ideas that will inform what we do next. 
 
 # Known Instances
-* [University of California OSPO Network](https://ucospo.net/)
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
 
 # References
 [UC Open 2025](https://ucospo.net/events/uc-open-4-2025/) - scroll down the agenda for ‘How can we help? Academic OSPOs making an impact at UC’'
