@@ -1,7 +1,7 @@
 # Student Showcase Sessions at OSPO Events
 
 # Pattern Summary
-Create dedicated conference sessions where students present their open source projects, contributions or experiences working with their institution’s OSPO. 
+Create dedicated event/conference sessions where students present their open source projects, contributions or experiences working with their institution’s OSPO. 
 
 # Problem / Challenge
 The lack of recognition for open source work within academia causes valuable contributions to remain invisible and potentially undermines student motivation to participate in open source projects over the long-term.
@@ -15,6 +15,7 @@ There may also be a limited awareness of the OSPO’s student-focused initiative
 Below is a list of common categories of academic OSPO activities \- please choose which apply:
 
 - Building University OSS Community
+- Demonstrating value as an OSPO
 - OSS Advocacy & Policy
 - OSS Education & Skills  
 - Supporting OSS development  
@@ -66,7 +67,8 @@ Presentations may be in the form of lightning talks, poster sessions, panel disc
 * Showcases also generate content and success stories that the OSPO can use for recruitment, grant applications, and demonstrating value to institutional stakeholders.
 
 ## Additional Learning from the Georgia Tech Open Source Program Office
-At this year’s conference, we gave students more of a spotlight to present their work. Some of the students who participated in last year’s virtual summer internship spoke about the experience and their progress on projects. It was very successful and we had greater numbers of students participating than at the previous conference. 
+At this year’s conference, we gave students more of a spotlight to present their work. Some of the students who participated in last year’s [virtual summer internship program](https://ospo.cc.gatech.edu/vsip/) spoke about the experience and their progress on projects. It was very successful and we had greater numbers of students participating than at the previous conference. 
+
 Because of the success of the student panels, we plan to split the format next year. We hope to run our usual annual summit (where speakers present their results) and add a separate workshop focused on training.
 
 # Known Instances
@@ -82,6 +84,7 @@ Scroll down the agenda for the [Open Source and Scientific Software Workshop](ht
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/edit/main/summer-internship-program.md)
 
 # Contributors & Acknowledgement
 In alphaetical order
