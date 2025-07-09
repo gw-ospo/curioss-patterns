@@ -12,8 +12,6 @@ There may also be a limited awareness of the OSPO’s student-focused initiative
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
 - Building University OSS Community
 - Demonstrating value as an OSPO
 - OSS Advocacy & Policy
