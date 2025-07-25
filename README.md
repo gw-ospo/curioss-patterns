@@ -111,7 +111,8 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Tools & Infrastructure**
-* [Co-hosting Student Events](cohosting-student-events.md)
+* [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
+* [OSS Tutorials using Authoring Tools](https://github.com/CURIOSSorg/curioss-patterns/blob/main/oss-tutorials-using-authoring-tools.md)
 
 **Working with Tech Transfer / External Partners**
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
