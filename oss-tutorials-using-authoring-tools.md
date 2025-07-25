@@ -2,7 +2,8 @@
 
 # Pattern Theme / Category
 
-Education and Skills
+* Education and Skills
+* Tools and Infrastructure
 
 # OSPO Problem / Challenge
 
