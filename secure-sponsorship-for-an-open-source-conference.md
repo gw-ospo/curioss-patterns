@@ -90,8 +90,9 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 
 # References
 * [GW OSCON](https://ospo.gwu.edu/oscon-2025) sponsors listed at the end of the page.
-* [Sponsor Prospectus for GW OSCON 2025](https://gwu.box.com/s/t85385ljfie6ixtt0zxx2mnw6nxh40mx)
+* [Sponsor Prospectus for GW OSCON 2025](https://gwu.box.com/s/t85385ljfie6ixtt0zxx2mnw6nxh40mx).
 * [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/) sponsors listed above summit agenda.
+* [UC Open Source Research Symposium 2024 Sponsorship Prospectus](https://drive.google.com/file/d/1cgxd-DRan9hC1JV2zefeHuXqWZpcRAsf/view).
 
 ## Related Patterns
 * [Co-hosting Student Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
