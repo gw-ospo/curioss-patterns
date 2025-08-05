@@ -89,6 +89,9 @@ An academic OSPO can benefit from an Advisory Group in some or all of the follow
 - The OSPO’s activities are directly informed by key community members and stakeholders.
 - The OSPO can facilitate valuable connections and relationships between the university and external partners from both the region and the broader open source community.
 
+## Additional learning from the George Washington University OSPO
+We have an OSPO stakeholder group. We don't use the term 'advisory' because we don't want our stakeholders to feel the need to advise us, rather, we are a community sharing ideas, feedback and working together.
+
 ## Additional learning from University of Wisconsin-Madison
 The UW-Madison OSPO identified the need for two distinct bodies to guide operations and provide strategic support during the planning phase. 
 
@@ -99,8 +102,8 @@ The OSPO Advisory Board drew from a broader range of campus and community stakeh
 Including these governance structures in the initial proposal demonstrated institutional buy-in and strategic support from the project's inception. This undoubtedly contributed both to the success of the OSPO proposal and our OSPO's subsequent effectiveness, as the office launched with built-in capacity through these established advisory relationships.
 
 # Known Instances
-
-[UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 # References
 
