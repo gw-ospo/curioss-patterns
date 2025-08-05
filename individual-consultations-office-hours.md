@@ -59,6 +59,9 @@ Research teams and projects benefit from personalized guidance along with referr
 ## Additional Learning from Carnegie Mellon University OSPO
 We use this [consultation template](https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit#slide=id.g2c709938643_0_8) to guide the conversation with projects and to assess their needs.
 
+## Additional Learning from Georgia Tech OSPO
+We support [POSE](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) proposal development with office hours.
+
 ## Additional Learning from University of California Santa Cruz OSPO
 We meet with projects to offer advice and support as needed. This is often a one-time call but sometimes grows into grant proposals or longer collaborations.
 
@@ -69,6 +72,7 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 * [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
 * [Innovation Partnerships, MOSS program](https://innovationpartnerships.umich.edu/moss/), University of Michigan
 * [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
