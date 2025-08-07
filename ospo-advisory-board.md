@@ -92,6 +92,9 @@ An academic OSPO can benefit from an Advisory Group in some or all of the follow
 ## Additional learning from the George Washington University OSPO
 We have an OSPO stakeholder group. We don't use the term 'advisory' because we don't want our stakeholders to feel the need to advise us, rather, we are a community sharing ideas, feedback and working together.
 
+## Additional learning from Saint Louis University
+We have a Faculty Advisory Board of experienced researchers and educators across the university. They provide strategic guidance on academic initiatives and ensure our program aligns with university priorities. Our Industry Advisory Board comprises seasoned technology leaders, open source practitioners, and innovation executives. Members provide insights into current market trends and workforce development needs.
+
 ## Additional learning from University of Wisconsin-Madison
 The UW-Madison OSPO identified the need for two distinct bodies to guide operations and provide strategic support during the planning phase. 
 
@@ -103,9 +106,11 @@ Including these governance structures in the initial proposal demonstrated insti
 
 # Known Instances
 * [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 # References
+* Scroll down on the [Open Source with SLU Leadership page](https://oss-slu.github.io/people/leadership) for more information about the Faculty and Industry Advisory Boards.
 
 # Contributors & Acknowledgement
 
