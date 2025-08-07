@@ -59,8 +59,9 @@ The initial outcome of this commitment letter is appreciation and education from
 
 # Known Instances
 
-* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
+* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison 
 
