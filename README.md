@@ -28,6 +28,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 **Community Building**
 * [Co-hosting Student Events](cohosting-student-events.md)
+* [Create a Donor/Sponsorship Prospectus](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-a-donor-or-sponsorship-prospectus.md)
 * [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
