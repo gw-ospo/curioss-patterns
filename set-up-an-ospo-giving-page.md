@@ -87,8 +87,8 @@ Our [OSPO giving page](https://ucsc-ospo.github.io/bankinfo/) links to our [UCSC
 * [Sponsor Prospectus for GW OSCON 2025](https://gwu.box.com/s/t85385ljfie6ixtt0zxx2mnw6nxh40mx)
 
 ## Related Patterns
+* [Create a Donor/Sponsorship Prospectus](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-a-donor-or-sponsorship-prospectus.md)
 * [Secure sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/b17321be288388d6cc4b85c0603d16813f92035f/secure-sponsorship-for-an-open-source-conference.md)
-* [Sponsorship Prospectus](link to be added)
 
 # Contributors & Acknowledgement
 In alphabetical order
