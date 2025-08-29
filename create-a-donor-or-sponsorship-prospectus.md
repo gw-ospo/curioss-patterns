@@ -1,7 +1,7 @@
 # Create a Donor/Sponsorship Prospectus
 
 # Pattern Summary
-Create and publish a donor/sponsorship prospectus that articulates the opportunities, benefits and impact of general donations to the OSPO and/or sponsorship of OSPO events. 
+Create and publish a donor/sponsorship prospectus that articulates the opportunities, benefits and impact of financial supporting the OSPO and its activities.
 
 # Problem / Challenge
 Academic OSPOs are emerging entities within academia that typically depend on short-term grant funding rather than stable institutional budgets.
@@ -11,7 +11,6 @@ Unlike traditional university fundraising that often relies on alumni networks a
 Academic OSPOs may struggle to articulate the benefits of giving to potential donors or sponsors.
 
 # Pattern Category
-
 - Community Building
 - Funding & Financial Support
    
@@ -39,7 +38,7 @@ The solution below outlines different types of information that may be included 
 * Information about the academic institution and its open source commitment.
 
 ## Tiered Sponsorship Levels
-* Defined sponsorship tiers (e.g., Community, Bronze, Silver, Gold, Platinum) with specific amounts.
+* Defined sponsorship tiers (e.g., Community, Bronze, Silver, Gold, Platinum) with specific funding amounts.
 * The benefits for each sponsorship tier may include recognition, networking opportunities and promotion opportunities.
 
 ## Value Proposition
@@ -49,7 +48,7 @@ Every OSPO is unique. Some common benefits to funding OSPOs may include:
 
 ## Varied Funding Options (where possible)
 * General operational support for ongoing OSPO activities.
-* Event-specific sponsorships for workshops, and conferences.
+* Event-specific sponsorships for workshops and conferences.
 * Project-based funding for specific research or infrastructure initiatives.
 * In-kind contributions for services, software or expertise.
 
