@@ -12,6 +12,7 @@ Academic OSPOs may struggle to articulate the benefits of giving to potential do
 
 # Pattern Category
 - Community Building
+- Demonstrating Value as an Academic OSPO
 - Funding & Financial Support
    
 # Context
