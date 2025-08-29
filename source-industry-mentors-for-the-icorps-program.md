@@ -9,9 +9,6 @@ Use internal university connections to source industry mentors who can commit to
 Faculty may face significant challenges in sourcing industry mentors with the availability and/or expertise who can provide 40 hours of guidance throughout the seven week intensive entrepreneurial training program. 
 
 # Pattern Category
-
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
 - Demonstrating value as an OSPO
 - Education & Skills
 - Funding & Financial Support
@@ -31,15 +28,15 @@ An OSPO with the capacity to source mentors on behalf of I-Corps applicants or w
 # Solution
 Engage with the institution's existing innovation and industry infrastructure to source mentors through warm introductions or established relationships through the following channels:
 
-+ **Technology Transfer Office (TTO):** Leverage relationships with industry partners, licensing contacts, and entrepreneurs who have previously commercialized university technologies.
++ **Technology Transfer Office (TTO):** Leverage relationships with industry partners, licensing contacts and entrepreneurs who have previously commercialized university technologies.
 + **Innovation and Entrepreneurship Centers:** Colleagues based in these centers may be accepted as industry mentors. Staff will also have contacts and relationships with industry mentors from relevant fields.
 + **Industry Relations/Corporate Partnerships:** Advisory boards, research sponsors, and strategic partnership contacts may also yield mentors.
-+ **Alumni Networks:** Entrepreneurial alumni, particularly those in startup ecosystems or corporate innovation roles may have a particular interest in participating as industry mentors.
-+ **Existing Entrepreneurship Programs:** Advisory board members, guest lecturers and faculty based in the institution’s business schools, incubators, accelerators, and other entrepreneurship initiatives may provide a useful source of mentors.
-+ **Faculty Industry Connections:** Explore faculty consulting relationships, sabbatical contacts, and collaborative research partners.
++ **Alumni Networks:** Entrepreneurial alumni (particularly those in startup ecosystems or corporate innovation roles) may have a particular interest in participating as industry mentors.
++ **Existing Entrepreneurship Programs:** Advisory board members, guest lecturers and faculty based in the institution’s business schools, incubators, accelerators and other entrepreneurship initiatives may provide a useful source of mentors.
++ **Faculty-Industry Connections:** Explore faculty consulting relationships, sabbatical contacts and collaborative research partners.
 
 ## Other actions to consider
-+ Establish a mentor ‘database’ with expertise areas, availability windows a log of when they were approached to participate.
++ Establish a mentor ‘database’ with expertise areas, availability windows and a log of when they were approached to participate.
 + Develop a brief information guide explaining the I-Corps program, requirements and time commitments. 
 + Create a standardized industry mentor profile template with the information required for the I-Corps executive summary and proposal.
 + Devise a process for recognizing and rewarding industry mentors who participate.
@@ -49,12 +46,12 @@ Leveraging established networks (over cold outreach) to source mentors is likely
 
 Systematic relationship development should support the creation of a sustainable mentor pipeline.
 
-Offering support with grant proposals develops and strengthens relationships with colleagues, faculty, researchers and students.
+Offering support with I-Corps proposals develops and strengthens relationships with colleagues, faculty, researchers and students.
 
 ## Additional learning from Carnegie Mellon University OSPO
 As a staff member of the OSPO, I was able to make the case for applying as the industry mentor. I didn’t need ‘a ton’ of industry experience to fully participate and I was able to support each group to make the connections needed for their required short interviews.
 
-I would say that it was definitely valuable to go through as an industry mentor and find out what the training entails.
+I would say that it was definitely valuable to go through the process as an industry mentor and find out what the training entails.
 
 ## Additional learning from OpenSource@Stanford
 We relied on personal networks and connections made through our [Maintainers & Contributors Roundtable program](https://opensource.stanford.edu/programs/maintainers-contributors-roundtable). 
