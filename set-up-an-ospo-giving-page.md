@@ -4,10 +4,12 @@
 Channel direct funding to an academic OSPO by setting up a donations or giving page that aligns with the institution’s financial systems.
 
 # Problem / Challenge
-Academic OSPOs are emerging entities within academia that typically depend on short-term grant funding rather than stable institutional budgets. Unlike traditional university fundraising that often relies on alumni networks and established development offices, OSPOs need to attract support from technology companies, open source foundations, individual developers and other non-traditional academic supporters who may have varying levels of familiarity with university partnership processes.
+Academic OSPOs are emerging entities within academia that typically depend on short-term grant funding rather than stable institutional budgets. 
+
+Unlike traditional university fundraising that often relies on alumni networks and established development offices, OSPOs need to attract support from technology companies, open source foundations, individual developers and other non-traditional academic supporters who may have varying levels of familiarity with university partnership processes.
 
 There are a number of bureaucratic challenges for academic OSPOs seeking to establish accessible donation pathways for potential donors and sponsors: 
-* **Complex financial systems** that discourage spontaneous or smaller contributions from a diverse range of potential funders or sponsors (individuals, startups, enterprises, foundations).
+* **Complex financial systems** that discourage spontaneous or smaller contributions from a diverse range of potential funders or sponsors.
 * **A lack of information about how to direct donations to OSPOs** and/or other specialized units on the institution’s website.
 * **A need for transparent financial processes** that meet the institution’s financial compliance obligations.
 * **Potential difficulties in accepting unrestricted funds** that can be deployed flexibly across OSPO priorities and opportunities.
@@ -25,7 +27,7 @@ A stable budget line for the OSPO and/or open source initiatives may not be esta
 # Forces
 Potential donors and sponsors may not know how to donate directly to the OSPO.
 
-OSPO staff members have the capacity/availability to collaborate with finance colleagues on a solution.
+OSPO staff members have the capacity to collaborate with finance colleagues on a solution.
 
 Procurement and payment guidelines allow for once-off or flexible donations directly to the OSPO.
 
@@ -43,7 +45,7 @@ Contact and/or meet finance colleagues to understand the institution’s process
 
 ## Develop a communications strategy and supporting materials
 * Develop a strategy for promoting direct donations through the giving page and acknowledging donors on the OSPO’s website, materials and communication platforms.
-* Consider developing a prospectus outlining different donor or sponsorship ‘packages’ , options for once-off smaller contributions and information about how donations will be used.
+* Consider developing a prospectus outlining different donor or sponsorship ‘packages’, options for once-off smaller contributions and information about how donations will be used.
 
 ## Set up an OSPO Giving Page
 * Create a dedicated page on the OSPO’s website.
@@ -64,6 +66,7 @@ A dedicated giving page produces positive outcomes for the OSPO, donors and the 
 * Flexible contribution levels from individual donations to major sponsorships.
 * More convenient payment options that fit with organizational processes.
 * A clear understanding of how OSPO contributions will be used.
+* Branding and partnership opportunities that align with sponsors' open source mission.
 
 ## Benefits for the Academic Institution
 * Compliance with university financial policies. 
