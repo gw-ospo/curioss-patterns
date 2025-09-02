@@ -14,6 +14,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
@@ -54,6 +55,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
@@ -82,6 +84,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 * [Set up an OSPO Giving Page](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-ospo-giving-page.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
@@ -96,6 +99,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
@@ -107,8 +111,9 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Survey](open-source-survey.md)
 
 **Open Source Sustainability**
-* [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
+* [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 
 **Promoting Best Practices**
@@ -119,6 +124,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md) 
 * [Open Source Software Prize](open-source-software-prize.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 * [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
