@@ -52,6 +52,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
@@ -68,6 +69,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
 * [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Summer Internship Program](summer-internship-program.md)
 
@@ -79,6 +81,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 * [Set up an OSPO Giving Page](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-ospo-giving-page.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
@@ -89,6 +92,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 **Open Source Sustainability**
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 
 **Promoting Best Practices**
 * [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
@@ -99,6 +103,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Software Prize](open-source-software-prize.md)
 * [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Rewards & Recognition**
@@ -111,6 +116,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
@@ -126,6 +132,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
+* [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Summer Internship Program](summer-internship-program.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
