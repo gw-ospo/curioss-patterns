@@ -96,11 +96,10 @@ Weâ€™ve also noted a greater awareness and appreciation for the CMU OSPO and weâ
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - Pattern from the UT Austin OSPO.
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO.
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
+* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
 
 # Contributors & Acknowledgement
-
 * Sayeed Choudhury (Carnegie Mellon University) https://orcid.org/0000-0003-2891-0543
 * Tom Hughes (Carnegie Mellon University) https://orcid.org/0009-0008-7516-3687
 * Ciara Flanagan https://orcid.org/0009-0005-3153-7673
-
 
