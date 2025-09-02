@@ -92,8 +92,10 @@ Weâ€™ve also noted a greater awareness and appreciation for the CMU OSPO and weâ
 
 # References
 
+## Related Patterns
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - Pattern from the UT Austin OSPO.
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO.
+* [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
 
 # Contributors & Acknowledgement
 
