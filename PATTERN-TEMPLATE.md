@@ -16,7 +16,7 @@ Explain the problem clearly, providing enough detail for the reader to understan
 
 Below is a list of common categories of academic OSPO activities \- please choose which apply:
 
-- Advocacy & Policy
+- Advocacy, Governance & Policy
 - Awareness
 - Community Building
 - Demonstrating value as an OSPO
