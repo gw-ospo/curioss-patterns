@@ -16,13 +16,17 @@ Explain the problem clearly, providing enough detail for the reader to understan
 
 Below is a list of common categories of academic OSPO activities \- please choose which apply:
 
+- Advocacy & Policy
+- Awareness
 - Community Building
-- Demonstrating value as an OSPO  
+- Demonstrating value as an OSPO
+- Education & Skills
 - Funding & Financial Support
-- OSS Advocacy & Policy  
-- OSS Education & Skills
-- Sharing OSS Best Practices
-- Supporting OSS development  
+- Open Source Development
+- Open Source Discovery
+- Open Source Sustainability
+- Promoting Best Practices
+- Rewards & Recognition
 - Tools & Infrastructure
 - Working with Tech Transfer / External Partners  
    
