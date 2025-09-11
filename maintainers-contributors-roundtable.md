@@ -6,7 +6,7 @@ Convene a community of practice consisting of students and staff who are activel
 
 # Problem / Challenge
 
-
+Active open source software maintainers and contributors are often scattered across laboratories and departments on university campuses without a way of knowing about each other’s work or a means of connecting.
 
 # Pattern Category
 
@@ -27,6 +27,8 @@ Students and staff who are actively maintaining or contributing to university op
 
 An OSPO or community lead with capacity to plan monthly meetings.
 
+An OSPO that wishes to learn about the project activity and technical painpoints directly from maintainers and contributors.
+
 # Solution
 
 *How does this pattern resolve the problem?*  
@@ -40,10 +42,8 @@ Describe both the intended positive results and any potential side effects or co
 
 # Known Instances
 
-*Provide real-world instances of this pattern in action.*
-
-* Example 1: Description of a known use case.  
-* Example 2: Description of another instance.
+* OpenSource@Stanford, Stanford University https://opensource.stanford.edu/programs/maintainers-contributors-roundtable
+* UC Open Source Contributors & Maintainers Virtual Meetup https://bids.berkeley.edu/news/building-bridges-highlights-inaugural-uc-open-source-meetup
 
 # References
 
@@ -51,4 +51,8 @@ List resources or related patterns for further reading.
 
 # Contributors & Acknowledgement
 
-Recognize individuals or organizations that contributed to this pattern.
+In alphabetical order:
+
+* Ciara Flanagan https://orcid.org/0009-0005-3153-7673
+* Francesca Vera https://orcid.org/0000-0001-8791-3854
+* Zach Chandler https://orcid.org/0000-0003-2402-9839
