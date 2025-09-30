@@ -47,16 +47,11 @@ Provide a detailed description of the solution. Include actionable steps or guid
 
 *What are the outcomes of applying this pattern?*
 
-Describe both the intended positive results and any potential side effects or consequences.
+Creating a dedicated on-campus space for open source software maintainers and contributors fosters an essential sense of community, effectively alleviating the isolation many have previously experienced in their roles. This newfound connection encourages the sharing of knowledge, skills, and experiences. Encouraging developers, coding leads, research scientists, and similar stakeholders to build relationships with each other also instills a supportive network that can lead to collective problem-solving, particularly if members are willing to seek feedback on specific aspects of their project. Moreover, hosting this community of practice can strengthen the relationships between the members and the OSPO, enabling the OSPO to engage members on other OSPO inititaves (e.g. workshops, consultations, mentorship).
 
-* People have a space to meet and connect, and share knowledge - not isolated anymore
-* Opportunity to build relationships with each other
-* Build relationships with the OSPO
+A particularly valuable result is that members continue to stay in touch outside of monthly meetings. Having a dedicated communication channel (e.g. dedicated Slack channel, mailing list) for members to continue to share ideas, solicit advice, and build connection has made the monthly meeting cadence feel appropriate since there are many asynchronous touchpoints between meetings. 
 
-(Additional learning - no faculty members in M&CR)
-Talk of a possible faculty space e.g. when faculty member IS the maintainer of the project
-
-Success
+In line with our aim to create a safe space for members, we do not invite faculty PI's to monthly meetings, unless there is a special session and we notify members in advance. We based this on a simple idea that people behave differently when the "boss" is in the room, and we received positive feedback from membesr about this choice. However, there is possibility for convening an alternative community of practice that allows faculty members in the case where the faculty member IS the maintainer of the project and would find valuable learning from a community of other project maintainers.
 
 Challenges/What would you have done differently
 (useful insight: make a beginner-friendly format separate from Maintainers)
