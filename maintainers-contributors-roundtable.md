@@ -67,8 +67,8 @@ In line with our aim to create a safe space for members, we do not invite facult
 
 # References
 
-Lave, Jean, and Étienne Wenger-Trayner. *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press, 2020. 
-Brown, John Seely, et al. *The Social Life of Information*. Harvard Business Review Press, 2017. 
+* Lave, Jean, and Étienne Wenger-Trayner. *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press, 2020.
+* Brown, John Seely, et al. *The Social Life of Information*. Harvard Business Review Press, 2017. 
 
 # Contributors & Acknowledgement
 
