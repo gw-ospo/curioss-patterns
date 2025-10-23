@@ -52,4 +52,4 @@ Implementing this pattern creates a visible, student-led initiative for the OSPO
 
 # Contributors & Acknowledgements
 
-Mia Diewald (George Washington University OSPO)
+Mia Diewald (George Washington University OSPO) [https://orcid.org/0009-0005-8123-1832](https://orcid.org/0009-0005-8123-1832)
