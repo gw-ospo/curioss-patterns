@@ -20,7 +20,7 @@ Open Source programming is aimed at fostering collaboration, especially at unive
 
 A university with an established OSPO interested in student engagement.
 
-# Focus
+# Forces
 
  * Many students across university campuses have not been exposed to open source and are not engaged with the OSPO office
 * Limited methods of practical, in-person, effective outreach to students 
@@ -34,8 +34,8 @@ Host a table at an event, like the GW Makerspace event, either independently or 
 
 ## Feature two interactive activities once you give students a brief introduction to open source: 
 
-* Open Source vs. Proprietary Matching Game: Visitors matched logos of different companies, platforms, and apps—ranging from Python to TikTok—and guessed which ones use open-source models and which are closed-source. This activity highlighted how often open source models are a part of daily life, even when people may not realize it. This activity inspired some great conversations about the importance of open source and how it impacts society. Open source platforms to include (R, Drupal, WordPress, Linux, Python, Open Street Map, React, Bluesky, Docker, Gimp, Android, Jupyter). Proprietary platforms to include (ChatGPT, Gmail, Facebook, TikTok, X, GitHub, Slack, Adobe, WhatsApp, MailChimp)
-* Open Source Art Contribution (Activity 2): Provide students with an opportunity to showcase their creativity by creating artwork and participating in their first open source contribution on GitHub. Allow participants to draw something on a piece of paper and submit their work to our [open source art repo] (https://github.com/gw-ospo/open-source-workshop). Staff will demonstrate to students how to upload their artwork to GitHub. Walk them through the process and watch them see their masterpieces uploaded live as part of a [collaborative open source art collection] (https://gw-ospo.github.io/open-source-workshop/).
+* Open Source vs. Proprietary Matching Game (Activity 1): Visitors matched logos of different companies, platforms, and apps—ranging from Python to TikTok—and guessed which ones use open-source models and which are closed-source. This activity highlighted how often open source models are a part of daily life, even when people may not realize it. This activity inspired some great conversations about the importance of open source and how it impacts society. Open source platforms to include (R, Drupal, WordPress, Linux, Python, Open Street Map, React, Bluesky, Docker, Gimp, Android, Jupyter). Proprietary platforms to include (ChatGPT, Gmail, Facebook, TikTok, X, GitHub, Slack, Adobe, WhatsApp, MailChimp)
+* Open Source Art Contribution (Activity 2): Provide students with an opportunity to showcase their creativity by creating artwork and participating in their first open source contribution on GitHub. Allow participants to draw something on a piece of paper and submit their work to our [open source art repo](https://github.com/gw-ospo/open-source-workshop). Staff will demonstrate to students how to upload their artwork to GitHub. Walk them through the process and watch them see their masterpieces uploaded live as part of a [collaborative open source art collection](https://gw-ospo.github.io/open-source-workshop/).
 These activities demonstrate to students that they used open sources platforms, and the power of sharing their work through open source. 
 
 # Resulting Context: 
@@ -44,7 +44,7 @@ Tabling is an effective way to briefly introduce the OSPO to your campus communi
 
 # Known Instances
 
-* [The George Washington University] (https://ospo.gwu.edu/georgehacks-makerspace-2025): The George Washington University Open Source Program Office tabled at a makerspace event hosted by a student-run organization GeorgeHacks. The GW OSPO Student Ambassadors tabled the event and were able to meaningfully connect with students, advertise their upcoming events, and increase open source awareness with students from a variety of disciplines and backgrounds. 
+* [The George Washington University](https://ospo.gwu.edu/georgehacks-makerspace-2025): The George Washington University Open Source Program Office tabled at a makerspace event hosted by a student-run organization GeorgeHacks. The GW OSPO Student Ambassadors tabled the event and were able to meaningfully connect with students, advertise their upcoming events, and increase open source awareness with students from a variety of disciplines and backgrounds. 
 
 # Contributors & Acknowledgements
 
