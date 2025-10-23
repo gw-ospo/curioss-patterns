@@ -48,4 +48,4 @@ Tabling is an effective way to briefly introduce the OSPO to your campus communi
 
 # Contributors & Acknowledgements
 
-Nouha Elyazidi (George Washington University OSPO)
+Nouha Elyazidi (George Washington University OSPO) https://orcid.org/my-orcid?orcid=0009-0004-8067-8803 
