@@ -46,10 +46,9 @@ Implementing this pattern creates a visible, student-led initiative for the OSPO
 
 # Known Instances
 
-* The George Washington University OSPO: Two graduate and two undergraduate student ambassadors work part-time alongside OSPO staff to promote open source awareness, organize events, and contribute to open source infrastructure at GW.
-* University of Vermont, Open Research Community Accelerator (ORCA): Run by the University of Vermont’s OSPO (VERSO), ORCA connects undergraduate students with faculty, graduate researchers, and local partners to create open-source tools that extend the reach and impact of academic research. Students work in small “Pods” of 4–5 members, gaining real-world experience in open-source development while translating research outputs into accessible, community-focused applications. The program strengthens open research practices and cultivates workforce-ready skills in open source.
+* **The George Washington University OSPO:** Two graduate and two undergraduate student ambassadors work part-time alongside OSPO staff to promote open source awareness, organize events, and contribute to open source infrastructure at GW.
+* **University of Vermont, Open Research Community Accelerator (ORCA):** Run by the University of Vermont’s OSPO (VERSO), [ORCA](https://verso.w3.uvm.edu/orca/) connects undergraduate students with faculty, graduate researchers, and local partners to create open-source tools that extend the reach and impact of academic research. Students work in small “Pods” of 4–5 members, gaining real-world experience in open-source development while translating research outputs into accessible, community-focused applications. The program strengthens open research practices and cultivates workforce-ready skills in open source. 
 
-##https://verso.w3.uvm.edu/orca/  
 
 # Contributors & Acknowledgements
 
