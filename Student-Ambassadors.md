@@ -3,50 +3,54 @@
 
 # Pattern Summary 
 
-Learn how to run a tabling event with games, interactive open source activities, and prizes to engage students across the university. 
+A paid student ambassador program that empowers undergraduates and graduates to promote open source engagement, events, and projects across the university. 
 
  # Problem 
 
-Open Source programming is aimed at fostering collaboration, especially at university OSPOs, students are the majority of this community. It can be challenging to meaningfully engage students across disciplines and share the OSPO mission. It can be hard to entice students to come to events or use OSPO resources without educating them on what open source means and building a network through meaningful engagement. Students also have limited time, and often interest, in something they may have never heard of. Faculty may also have limited time or resources to engage in outreach with students. It is important to engage students in an effective, engaging, and practical way. Only by involving students and getting them excited about open source can our mission of open collaboration become authentic.
+Many universities, including George Washington University, are developing Open Source Program Offices (OSPOs) to foster a culture of collaboration and innovation; however, they struggle to connect directly with students. Students comprise an essential part of the academic community. Still, engagement can be challenging for academic offices due to the consistent presence, peer-to-peer outreach, and relevant campus projects that it entails. As it stands now, faculty and staff may have limited time for outreach, and communication directly from an academic institution can feel distant, inaccessible, or otherwise miss the mark when it comes to connecting students. Without active engagement, awareness of open source opportunities remains low, and participation in OSPO initiatives is limited. The challenge is to build consistent, authentic connections with students while advancing the OSPO’s technical and community goals.
 
  # Pattern Category
 
-* Outreach
-* Community building
-* Open Source Discovery 
+* Awareness
+* Community Building
 * Education & Skills
-* Building University OSS Community
+* Open Source Development
+* Open Source Discovery
+* Promoting Best Practices
 
 # Context
 
-A university with an established OSPO interested in student engagement.
+This pattern applies to university OSPOs seeking to strengthen their connections with students and build a culture of open-source participation on campus. It is particularly effective at institutions where OSPOs are newly established or lack full-time staff dedicated to outreach. The approach works best when there is administrative support for paid student positions and when project goals align with both educational and open-source values.
 
-# Focus
+# Forces
 
- * Many students across university campuses have not been exposed to open source and are not engaged with the OSPO office
-* Limited methods of practical, in-person, effective outreach to students 
-* Limited engagement with students because of resource and staffing limitations
-* Students, with busy schedules, may not want to engage with the OSPO if they are unaware of open source
-* OSPO teams want to meaningfully engage with students and foster a university culture of collaboration and sharing. 
+* OSPO staff often have limited abilities to maintain regular contact with students.
+* Students respond more positively to peer-led initiatives than to top-down institutional messaging.
+* Effective outreach requires both technical expertise and social engagement skills.
+* Consistent student involvement must be balanced with academic workloads and turnover.
+* Funding and measurable outcomes are necessary to justify continued university support.
 
 # Solution
 
-Host a table at an event, like the GW Makerspace event, either independently or in partnership with other student organizations in the heart of campus. Connect with students, faculty, and staff to share information about open source and the OSPO. Practice a brief pitch for those who have never heard of open source, both about the concept and the OSPO office. Reward students for their participation with OSPO merch, candy, or other goodies. Create and make accessible flyers or a scannable QR with more information about your OSPO so students know where to look to continue their engagement with your OSPO office. 
+Create a Student Ambassador program within the OSPO consisting of a small team of paid students; two graduate students working 20 hours per week and two undergraduates working 10 hours per week. A combination of both graduate and undergraduate ambassadors enables broader coverage across academic levels, strengthens continuity over semesters, and meets OSPO workload requirements. These ambassadors serve as liaisons between the OSPO and the student body in the following ways:
 
-## Feature two interactive activities once you give students a brief introduction to open source: 
-
-* Open Source vs. Proprietary Matching Game: Visitors matched logos of different companies, platforms, and apps—ranging from Python to TikTok—and guessed which ones use open-source models and which are closed-source. This activity highlighted how often open source models are a part of daily life, even when people may not realize it. This activity inspired some great conversations about the importance of open source and how it impacts society. Open source platforms to include (R, Drupal, WordPress, Linux, Python, Open Street Map, React, Bluesky, Docker, Gimp, Android, Jupyter). Proprietary platforms to include (ChatGPT, Gmail, Facebook, TikTok, X, GitHub, Slack, Adobe, WhatsApp, MailChimp)
-* Open Source Art Contribution (Activity 2): Provide students with an opportunity to showcase their creativity by creating artwork and participating in their first open source contribution on GitHub. Allow participants to draw something on a piece of paper and submit their work to our [open source art repo] (https://github.com/gw-ospo/open-source-workshop). Staff will demonstrate to students how to upload their artwork to GitHub. Walk them through the process and watch them see their masterpieces uploaded live as part of a [collaborative open source art collection] (https://gw-ospo.github.io/open-source-workshop/).
-These activities demonstrate to students that they used open sources platforms, and the power of sharing their work through open source. 
+* Hosting and tabling at campus events to raise open source awareness
+* Organizing community-building activities such as movie nights or coding sessions
+* Creating and managing OSPO social media accounts to share updates and opportunities
+* Leading or contributing to open source technical projects that advance university OSPO goals
+* Gathering student feedback and communicating emerging needs to OSPO leadership
 
 # Resulting Context: 
 
-Tabling is an effective way to briefly introduce the OSPO to your campus community in an informal yet meaningful way. With this program you will advertise OSPO resources in an appealing way, connect open source to their fields and interests, and demonstrate the value of open source in an interactive way. The goal of tabling is to  have students walk away gaining a better understanding of open source and your OSPO. This event was a fantastic opportunity to meet so many members of our community, answer questions about open source, and share information about our upcoming programming.
+Implementing this pattern creates a visible, student-led initiative for the OSPO on campus. The ambassadors increase awareness and participation in open-source initiatives while also delivering tangible technical outcomes. At GW, early results have demonstrated increased event attendance, successful launches of social media channels, and ongoing student-led technical projects aimed at promoting open-source use across departments. Challenges lie in maintaining consistent engagement as students graduate and ensuring sustained funding for paid positions; however, the benefits of authentic outreach and student leadership outweigh these concerns.
 
 # Known Instances
 
-* [The George Washington University] (https://ospo.gwu.edu/georgehacks-makerspace-2025): The George Washington University Open Source Program Office tabled at a makerspace event hosted by a student-run organization GeorgeHacks. The GW OSPO Student Ambassadors tabled the event and were able to meaningfully connect with students, advertise their upcoming events, and increase open source awareness with students from a variety of disciplines and backgrounds. 
+* The George Washington University OSPO: Two graduate and two undergraduate student ambassadors work part-time alongside OSPO staff to promote open source awareness, organize events, and contribute to open source infrastructure at GW.
+* University of Vermont, Open Research Community Accelerator (ORCA): Run by the University of Vermont’s OSPO (VERSO), ORCA connects undergraduate students with faculty, graduate researchers, and local partners to create open-source tools that extend the reach and impact of academic research. Students work in small “Pods” of 4–5 members, gaining real-world experience in open-source development while translating research outputs into accessible, community-focused applications. The program strengthens open research practices and cultivates workforce-ready skills in open source.
+
+##https://verso.w3.uvm.edu/orca/  
 
 # Contributors & Acknowledgements
 
-Nouha Elyazidi (George Washington University OSPO)
+Mia Diewald (George Washington University OSPO)
