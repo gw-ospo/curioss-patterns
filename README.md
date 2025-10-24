@@ -66,6 +66,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 **Education & Skills**
 * [Co-hosting Student Events](cohosting-student-events.md)
+* [OSPO Student Ambassadors](Student-Ambassadors.md)
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
