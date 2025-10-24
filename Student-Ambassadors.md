@@ -3,7 +3,7 @@
 
 # Pattern Summary 
 
-A paid student ambassador program that empowers undergraduates and graduates to promote open source engagement, events, and projects across the university. 
+A paid student ambassador program that empowers undergraduate and graduate students to promote open source engagement, events, and projects across the university. 
 
  # Problem 
 
