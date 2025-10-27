@@ -36,6 +36,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
@@ -68,6 +69,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Co-hosting Student Events](cohosting-student-events.md)
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
+* [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Organize one-off workshops](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-one-off-workshops.md)
@@ -106,6 +108,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Open Source Discovery**
+* [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
@@ -121,7 +124,8 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
-* [Lunch and Learn](lunch-and-learn.md) 
+* [Lunch and Learn](lunch-and-learn.md)
+* [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Source Software Prize](open-source-software-prize.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
 * [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
