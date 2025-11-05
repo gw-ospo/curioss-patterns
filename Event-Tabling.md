@@ -6,7 +6,7 @@ Learn how to run a tabling event with games, interactive open source activities,
 
  # Problem 
 
-Open Source programming is aimed at fostering collaboration, especially at university OSPOs, students are the majority of this community. It can be challenging to meaningfully engage students across disciplines and share the OSPO mission. It can be hard to entice students to come to events or use OSPO resources without educating them on what open source means and building a network through meaningful engagement. Students also have limited time, and often interest, in something they may have never heard of. Faculty may also have limited time or resources to engage in outreach with students. It is important to engage students in an effective, engaging, and practical way. Only by involving students and getting them excited about open source can our mission of open collaboration become authentic.
+Open Source programming is aimed at fostering collaboration, especially at university OSPOs, students are the majority of this community. It can be challenging to meaningfully engage students, faculty, and staff across disciplines and share the OSPO mission. It can be hard to entice a broad range of individuals across campus to come to events or use OSPO resources without educating them on what open source means and building a network through meaningful engagement. Community members also have limited time, and often interest, in something they may have never heard of. The OSPO may also have limited time or resources to engage in outreach with such a broad audience. It is important to engage learners in an effective, engaging, and practical way. Only by involving members from across the community and getting them excited about open source can our mission of open collaboration become authentic.
 
  # Pattern Category
 
@@ -22,15 +22,15 @@ A university with an established OSPO interested in student engagement.
 
 # Forces
 
- * Many students across university campuses have not been exposed to open source and are not engaged with the OSPO office
-* Limited methods of practical, in-person, effective outreach to students 
-* Limited engagement with students because of resource and staffing limitations
-* Students, with busy schedules, may not want to engage with the OSPO if they are unaware of open source
-* OSPO teams want to meaningfully engage with students and foster a university culture of collaboration and sharing. 
+ * Many members across university campuses have not been exposed to open source and are not engaged with the OSPO office
+* Limited methods of practical, in-person, effective outreach 
+* Limited engagement with broader audiences because of resource and staffing limitations
+* University community members, with busy schedules, may not want to engage with the OSPO if they are unaware of open source
+* OSPO teams want to meaningfully engage and foster a university culture of collaboration and sharing. 
 
 # Solution
 
-Host a table at an event, like the GW Makerspace event, either independently or in partnership with other student organizations in the heart of campus. Connect with students, faculty, and staff to share information about open source and the OSPO. Practice a brief pitch for those who have never heard of open source, both about the concept and the OSPO office. Reward students for their participation with OSPO merch, candy, or other goodies. Create and make accessible flyers or a scannable QR with more information about your OSPO so students know where to look to continue their engagement with your OSPO office. 
+Host a table at an event, like the GW Makerspace event, either independently or in partnership with other campus organizations in the heart of campus. Connect with students, faculty, and staff to share information about open source and the OSPO. Practice a brief pitch for those who have never heard of open source, both about the concept and the OSPO office. Reward participants for their participation with OSPO merch, candy, or other goodies. Create and make accessible flyers or a scannable QR with more information about your OSPO so interested individuals know where to look to continue their engagement with your OSPO office. 
 
 ## Feature two interactive activities once you give students a brief introduction to open source: 
 
@@ -40,7 +40,7 @@ These activities demonstrate to students that they used open sources platforms, 
 
 # Resulting Context: 
 
-Tabling is an effective way to briefly introduce the OSPO to your campus community in an informal yet meaningful way. With this program you will advertise OSPO resources in an appealing way, connect open source to their fields and interests, and demonstrate the value of open source in an interactive way. The goal of tabling is to  have students walk away gaining a better understanding of open source and your OSPO. This event was a fantastic opportunity to meet so many members of our community, answer questions about open source, and share information about our upcoming programming.
+Tabling is an effective way to briefly introduce the OSPO to your campus community in an informal yet meaningful way. With this program you will advertise OSPO resources in an appealing way, connect open source to their fields and interests, and demonstrate the value of open source in an interactive way. The goal of tabling is to  have people walk away gaining a better understanding of open source and your OSPO. This event was a fantastic opportunity to meet so many members of our community, answer questions about open source, and share information about our upcoming programming.
 
 # Known Instances
 
