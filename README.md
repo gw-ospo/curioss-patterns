@@ -44,7 +44,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
-* [OSPO student outreach]
+
 
 **Demonstrating value as an Academic OSPO**
 * [Create a Donor/Sponsorship Prospectus](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-a-donor-or-sponsorship-prospectus.md)
@@ -52,7 +52,6 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Lunch and Learn](lunch-and-learn.md)
-* [OSPO Tabling](Event-Tabling.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
@@ -68,7 +67,6 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 **Education & Skills**
 * [Co-hosting Student Events](cohosting-student-events.md)
-* [OSPO Student Ambassadors](Student-Ambassadors.md)
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
