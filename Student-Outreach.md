@@ -30,23 +30,23 @@ A university with an established OSPO interested in student outreach.
 
 Here are some outreach approaches to increasing engagement with the open source community targeted at students:
 
-- Hire Student Ambassadors
+1. Hire Student Ambassadors
 
 To better understand students' needs and interests, you need to have access to the student perspective. The best way to achieve this is to hire student ambassadors who are familiar with open source and community building. Student Ambassadors can educate their fellow students in peer-to-peer interactions, with approaches that are personalized and less intimidating than information heavy emails or lectures. To learn more about student ambassadors, you can read [GW OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/Student-Ambassadors.md).
 
-- Create Social Media accounts
+2. Create Social Media accounts
 
 To connect with and notify students about events, workshops, resources, and programming, having a community on popular social media platforms is the most efficient and effective method. Instagram is a popular social media choice among students to interact with organizations and each other. Through Instagram posts, stories, and by following student organizations, you can increase engagement and reach a larger audience. LinkedIn is another social media platform that students use to connect with professionals and discover opportunities. Creating a LinkedIn account to connect with other open source organizations or offices while having collaborative events can help students learn about professional opportunities in the open source world.
 
-- Host tabling event
+3. Host tabling event
 
 Hosting a table at events either independently or in collaboration with other student organizations is an effective method of connecting with students easily. Engage in interactive activities to educate them about relevant open source content. Host this tabling event at a central location on campus and use it as an opportunity to share the services your Open Source Program Office offers. To learn more about hosting tabling events, you can read [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md).
 
-- Organize workshops
+4. Organize workshops
 
 Organize a first contribution open source workshop where students can engage with the OSPO office with a simple activity like uploading an image that can be displayed in an animated art gallery website. Workshops are a great introduction to open source and demonstrate fundamentals in an interactive and informative way. [GW LAI Workshop: open source for everyone](https://gw-ospo.github.io/open-source-workshop/) .
 
-- Host movie nights
+5. Host movie nights
 
 Host movie screening events where students can relax and learn about open source. Screening movies like "The Internet's Own Boy," a documentary about Aaron Swartz, can inspire conversation about building community and collaborations.
 
