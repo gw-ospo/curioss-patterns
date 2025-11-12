@@ -8,7 +8,7 @@ Learn strategies for student outreach with social media engagement, tabling even
 
 The Open Source Program Offices in university settings aim to educate students about open source software and tools, especially those they can use to replace proprietary software for a variety of projects and functions. It can be challenging to connect with, educate and engage students with limited familiarity with open source. It can be even harder to encourage students to shift from platforms they are accustomed to using to new open source tools. It is important to tailor outreach based on the students' backgrounds and interests.
 
-Pattern Category
+# Pattern Category
 
 - Outreach
 - Community building
