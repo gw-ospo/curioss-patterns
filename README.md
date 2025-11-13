@@ -11,6 +11,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
+* [Integrating OSS into Institutional Software Pathways](https://github.com/CURIOSSorg/curioss-patterns/blob/main/integrating-oss-into-institutional-software-pathways.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
