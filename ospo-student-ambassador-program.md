@@ -67,7 +67,6 @@ Early results have demonstrated increased event attendance, successful launches 
 # References
 [GeorgeHacks Makerspace 2025](https://ospo.gwu.edu/georgehacks-makerspace-2025) article on the GW OSPO Student Ambassadors' table at a Makerspace event.
 
-
 ## Related Patterns
 * [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
