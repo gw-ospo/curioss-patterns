@@ -10,7 +10,7 @@ Open Source programming is aimed at fostering collaboration - especially at univ
 
  # Pattern Category
 
-* Awarenes
+* Awareness
 * Community building
 * Education & Skills
 * Open Source Discovery 
