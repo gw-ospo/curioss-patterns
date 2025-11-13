@@ -125,6 +125,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Integrating OSS into Institutional Software Pathways](https://github.com/CURIOSSorg/curioss-patterns/blob/main/integrating-oss-into-institutional-software-pathways.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Source Software Prize](open-source-software-prize.md)
@@ -145,6 +146,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 **Working with Tech Transfer / External Partners**
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+* [Integrating OSS into Institutional Software Pathways](https://github.com/CURIOSSorg/curioss-patterns/blob/main/integrating-oss-into-institutional-software-pathways.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
