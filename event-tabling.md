@@ -10,7 +10,7 @@ Open Source programming is aimed at fostering collaboration - especially at univ
 
  # Pattern Category
 
-* Awarenes
+* Awareness
 * Community building
 * Education & Skills
 * Open Source Discovery 
@@ -65,7 +65,7 @@ This event was a fantastic opportunity to meet so many members of our community,
 # References
 
 ## Related Patterns
-[OSPO Student Ambassadors](to be added)
+[OSPO Student Ambassadors](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md))
 
 # Contributors & Acknowledgements
 
