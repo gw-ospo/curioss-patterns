@@ -21,6 +21,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
 
 **Awareness** 
+* [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Framework for Managing University OSS](framework-managing-university-oss.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Lunch and Learn](lunch-and-learn.md)
@@ -34,6 +35,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Co-hosting Student Events](cohosting-student-events.md)
 * [Create a Donor/Sponsorship Prospectus](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-a-donor-or-sponsorship-prospectus.md)
 * [Create template documents for GitHub Repositories](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-template-documents-for-github-repositories.md)
+* [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
@@ -71,6 +73,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 **Education & Skills**
 * [Co-hosting Student Events](cohosting-student-events.md)
 * [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md)
+* [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
@@ -112,6 +115,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Open Source Discovery**
+*[Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
