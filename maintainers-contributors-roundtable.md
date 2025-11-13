@@ -123,7 +123,7 @@ However, there is a possibility for convening an alternative community of practi
 
 * [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://opensource.stanford.edu/programs/maintainers-contributors-roundtable)
 * [Highlights from the first UC Open Source Contributors & Maintainers Virtual Meetup](https://bids.berkeley.edu/news/building-bridges-highlights-inaugural-uc-open-source-meetup)
-* [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://www.youtube.com/watch?v=1tCLyTWbSbE)
+* [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://www.youtube.com/watch?v=1tCLyTWbSbE) - CURIOSS Deep Dive with Francesca Vera and Ellianna Abrahams 
 * Lave, Jean, and Étienne Wenger-Trayner. *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press, 2020.
 * Brown, John Seely, et al. *The Social Life of Information*. Harvard Business Review Press, 2017. 
 
