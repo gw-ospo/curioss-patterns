@@ -1,4 +1,4 @@
-# Publish and OSPO Newsletter
+# Publish an OSPO Newsletter
 
 # Pattern Summary
 
