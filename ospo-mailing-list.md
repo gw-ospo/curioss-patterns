@@ -6,7 +6,10 @@ Create a mailing list to maintain awareness of the OSPO and to promote engagemen
 
 # Problem / Challenge
 
-Academic OSPOs need to maintain visibility and demonstrate value to diverse stakeholders (e.g. university leadership, alumni and external partners). These stakeholders are likely to be interested in the OSPO's work but don't have time or inclination to follow detailed discussions. 
+Academic OSPOs need to maintain visibility and demonstrate value to diverse stakeholders (e.g. university leadership, alumni and external partners). 
+
+These stakeholders are likely to be interested in the OSPO's work but don't have time or inclination to follow detailed discussions. 
+
 OSPOs also need a simple entry point for students, researchers, open source projects and potential contributors who want to learn more about potential opportunities.
 
 # Pattern Category
@@ -19,11 +22,14 @@ OSPOs also need a simple entry point for students, researchers, open source proj
 # Context
 
 A university or research institution creating large volumes of research outputs across every discipline.
+
 An OSPO has been established and may be at an early stage of its development.
 
 # Forces
 OSPO staff may not have the time and resources to produce a newsletter on a regular basis.
+
 Stakeholders are busy people who receive many emails and may quickly unsubscribe from anything that wastes their time. 
+
 The university may have existing mailing list platforms and brand guidelines that must be followed.
 
 # Solution
@@ -61,18 +67,27 @@ An academic Open Source Program Office (OSPO) gains several strategic benefits f
 
 ## Additional Learning from OpenSource@Stanford, Stanford University
 When we originally set up our OSPO, we wanted to communicate important news about the OSPO on campus. However, as a nascent OSPO, we knew that we wouldn’t have regular news about our achievements to share on a monthly cadence. 
+
 We created our mailing list and use it for important updates and reminders about our events and regular meetings.  
 
 ## Additional learning from the University of California, Santa Barbara OSPO, UC OSPO Network
 We do have a UCSB mailing list. The sign up link is in the newsletter and on our website and in the newsletter itself. 
+
 In an open source survey that we conducted as part of the OSS discovery process on campus, we included a question where people could consent to be added to the mailing list.
+
 We also advertise our events on other groups' Slacks/Google chats, (e.g. the IT Google group, Women in Tech Google Group, UC-Tech Slack, etc.), which helps boost mailing list sign-ups.
+
 We use [Constant Contact](https://www.brevo.com/landing/constant-contact) as part of the Library Communications Department's license and we use templates created by a staff graphic designer. 
 
 ## Additional Learning from the University of California OSPO Network
 Each campus in the UC network now has their own mailing list. 
-Before each campus’s first meetup, we used the results of a GitHub scraping for our repo browser, and sent meetup invites to a subset of that scraping. The Principal Investigators on each campus also added relevant people to the invite list.
+
+Before each campus’s first meetup, we used the results of a GitHub scraping for our repo browser, and sent meetup invites to a subset of that scraping. The 
+
+Principal Investigators on each campus also added relevant people to the invite list.
+
 We didn’t subscribe invitees to the mailing list. They opted-in using a link in the invite or the meetup slides.
+
 Each campus is using different platforms, including Google Groups and Mailchimp. Apart from UC Santa Barbara, we liaised with the library communications teams on the mailing platforms.
 
 
