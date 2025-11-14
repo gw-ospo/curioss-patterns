@@ -115,7 +115,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
 **Open Source Discovery**
-*[Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
+* [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
