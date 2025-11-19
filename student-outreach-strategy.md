@@ -63,11 +63,13 @@ Event tabling at central locations on campus is particularly effective for outre
 
 ## Organize 'First Contribution' Workshops
 
-'First Contribution' Workshops offer a simple introduction to open source and demonstrate open source fundamentals in an engaging way. Organize a workshop where students can learn a simple activity that can be uploaded onto a public website.
+'First Contribution' Workshops offer a simple introduction to open source and demonstrate open source fundamentals in an engaging way. 
+
+Organize a workshop where students can learn a simple activity that can be uploaded onto a public website.
 
 ## Host Movie Nights
 
-Host movie screening events where students can relax and learn about open source. Screening movies like ["The Internet's Own Boy,"](https://www.youtube.com/watch?v=9vz06QO3UkQ) a documentary about Aaron Swartz, can inspire conversation about building community and collaborations.
+Host movie screening events where students can relax and learn about open source. Screening movies like [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ), a documentary about Aaron Swartz, can inspire conversation about building community and collaborations.
 
 # Resulting Context
 
