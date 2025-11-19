@@ -8,7 +8,7 @@ Develop an outreach strategy that use diverse activities to raise awareness of t
 
 An academic OSPO wants to build consistent, authentic connections with the student body while advancing the OSPO’s goals.
 
-Many students don't know what open source is and many student might not be familiar with how it can be relevant to them.
+Many students don't know what open source is and may not be familiar with how it can be relevant to them.
 
 Without proactive outreach, awareness of open source opportunities remains low and student participation in OSPO initiatives will be limited.
 
