@@ -57,7 +57,7 @@ LinkedIn is another popular social media platform for students to connect with p
 
 [Hosting a table at events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md) either independently or in collaboration with other student organizations is an effective method of connecting with students. 
 
-Tables provide a fun and informal way to educate students about open source and the OSPO's services. Short interactive games at the table can be used to educate students about the relevance of open source. 
+Tables provide a fun and informal way to raise awareness of the OSPO's services. Short interactive games at the table can be used to educate students about the relevance of open source. 
 
 Event tabling at central locations on campus is particularly effective for outreach to diverse groups of students.
 
