@@ -77,13 +77,13 @@ Using multiple outreach activities enhances the OSPO's potential to reach a wide
 
 ## Additional Learning from the GW Open Source Program Office
 
-We wanted to reach as many students as possible while helping them understand what our OSPO offers. We found that the most effective ways to reach students included hiring Student Ambassadors, creating social media content, hosting tabling events, organizing workshops and hosting movie nights. These methods were easily applicable and offered a fun and interactive way to raise awareness of the OSPO and the importance of open source. 
+We wanted to reach as many students as possible while helping them to understand what our OSPO offers. We found that the most effective ways to reach students included hiring Student Ambassadors, creating social media content, hosting tabling events, organizing workshops and hosting movie nights. These methods were easily applicable and offered a fun and interactive way to raise awareness of the OSPO and the importance of open source. 
 
-The OSPO hired 2 graduate students and 2 undergraduate students as Student Ambassadors. The OSPO now has its own [Instagram](https://www.instagram.com/gwospo/) and [LinkedIn](https://www.linkedin.com/company/ospo-gwuniversity) account.
+The OSPO hired 2 graduate students and 2 undergraduate students as Student Ambassadors. The OSPO now has its own [Instagram](https://www.instagram.com/gwospo/) and [LinkedIn](https://www.linkedin.com/company/ospo-gwuniversity) accounts.
 
-Our Student Ambassadors hosted tables at the [George Hacks Makerspace](https://ospo.gwu.edu/georgehacks-makerspace-2025) event and have hosted a movie night.
+Our Student Ambassadors hosted a table at the [George Hacks Makerspace](https://ospo.gwu.edu/georgehacks-makerspace-2025) event and have hosted a movie night.
 
-We also used an [open source art repository](https://github.com/gw-ospo/open-source-workshop) as a 'first contribution' activity. This was a great success with students seeing their masterpices uploaded live as part of a collaborative open source art collection.
+We also used this [open source art repository](https://github.com/gw-ospo/open-source-workshop) as a 'first contribution' activity. This was a great success with students seeing their masterpices uploaded live as part of a collaborative open source art collection.
 
 # Known Instances
 
