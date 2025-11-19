@@ -85,8 +85,6 @@ The OSPO itself benefits from:
 * A public archive of its projects, policies, and impact.
 * A platform for further open source discovery through an open source registry, open source survey, a newsletter and slack channels.
 
-# Additional Learning
-
 # Known Instances and References
 
 * [Advanced Research Computing Centre](https://github-pages.ucl.ac.uk/open-source/) (ARC), University College London
@@ -124,6 +122,3 @@ The OSPO itself benefits from:
 # Contributors & Acknowledgement
 
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
-
-
-Recognize individuals or organizations that contributed to this pattern.
