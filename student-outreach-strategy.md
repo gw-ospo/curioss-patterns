@@ -49,7 +49,7 @@ Student Ambassadors can educate their fellow students in peer-to-peer interactio
 
 Build a community on popular social media platforms to connect with and notify students about events, workshops, resources and programming. 
 
-Instagram is a popular social media choice among students for interaction with organizations. Increase engagement and reach a larger audience through Instagram posts, stories and by following student organizations.
+Instagram is a popular social media choice amongst students for interaction with organizations. Increase engagement and reach a larger audience through Instagram posts, stories and by following student organizations.
 
 LinkedIn is another popular social media platform for students to connect with professionals and discover opportunities. Using a LinkedIn account to connect with other open source organizations or offices (while holding collaborative events) supports students to learn about professional opportunities in the open source world.
 
