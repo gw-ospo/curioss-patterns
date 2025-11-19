@@ -31,7 +31,7 @@ The OSPO may lack full-time staff dedicated to outreach.
 - The OSPO team hopes to meaningfully engage with students and foster a university culture of collaboration and sharing.
 - There may have been limited engagement with broader audiences due to resource or staffing limitations.
 - Students may not have knowledge of the existing Open Source Program Office at their university.
-- There may administrative support for paid student positions.
+- There may be administrative support available for paid student positions.
 
 # Solution
 
