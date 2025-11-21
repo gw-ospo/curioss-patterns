@@ -74,6 +74,9 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 * [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)  
 * [Pattern: Open Source Software Prize](https://docs.google.com/document/d/1b5Bwuj8ZKbGSchBkpDgyK_3e1MAklxK7rYQ9Fdl-nfE/edit?usp=sharing)
 
+## Related Patterns
+[Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
+
 # Author(s) & Acknowledgement
 
 * Bill Branan [https://orcid.org/0000-0002-4735-6624](https://orcid.org/0000-0002-4735-6624)  

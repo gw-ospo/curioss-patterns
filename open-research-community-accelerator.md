@@ -102,6 +102,10 @@ The program has also led to several speaking engagements about open source, rese
 * [Onboarding materials for Team Members](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-member-onboarding) \- ORCA program at the University of Vermont.  
 * [Open Source Skills \- onboarding materials for students](https://github.com/VERSO-UVM/ORCA/milestone/1?closed=1) \- ORCA program at the University of Vermont.
 
+## Related Patterns
+
+[OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
+
 # Contributor(s) & Acknowledgment
 
 * Clare Dillon (CURIOSS)  
