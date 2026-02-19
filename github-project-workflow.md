@@ -1,12 +1,14 @@
-# Github Projects For OSPO Workflow
+# Open Project Managment using Github Projects 
 
 # Pattern Summary
 
-Utilizing Github Projects as a centralized workflow system to organize and manage OSPO tasks.
+Utilizing Github Projects to publicly and transparently organize and manage OSPO tasks.
 
 # Problem / Challenge
 
 Academic OSPOs often manage and plan a multitude of events, workshops, consultations, and training. In addition to managing tools, resources, and repositories. Without a shared and open-source workflow system, information can be scattered and disorganized. OSPOs need clear, transparent, and open ways of managing and organizing work. 
+
+Academic OSPOs are responsible for teaching students, faculty, and staff open source best practices. For OSPOs that want to apply open source best practices is to explore if open source best practices can apply to project management. 
 
 # Pattern Category
 - Community Building
@@ -21,7 +23,7 @@ This pattern applies to university-based OSPOs that use GitHub as a primary coll
 
 # Forces
 + **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information (students, contracts) that cannot be fully public.
-+ **Learning curve:** GitHub Projects requires contributors to learn and follow a structured workflow, which can be challenging in academic OSPOs where students and short-term contributors rotate frequently.
++ **Learning curve:** GitHub Projects requires contributors to learn a new tool, which can be challenging in academic OSPOs where students and short-term contributors rotate frequently.
 + **Timely updates:** Project boards are only useful if issues are consistently updated, which can be difficult to maintain alongside daily OSPO work.
 + **Tracking sub-issues:** Many OSPO tasks involve dependencies and subtasks, which can be difficult to represent clearly without added structure.
 + **Tool integration gaps:** Limited integration with tools like Slack, Gmail, or Logseq can cause work to be discussed or tracked outside GitHub, reducing visibility.
@@ -40,12 +42,12 @@ Program coordinators and technical team members use the project regularly to pla
 Label “good first issues” to support student onboarding and enable external collaborators to participate in discussions and task tracking.
 
 + **Simplified planning and reporting:**
-Project views, milestones, and iterations provide a lightweight way to track progress across semesters and generate reports without additional tools.
+Project views, milestones, and iterations provide a lightweight way to track progress over time and generate reports without additional tools.
 
 ### Key steps include:
 
 1. **Create a single organization-level GitHub Project:**
-Use one shared project board as the central place to track all OSPO activities across repositories, teams, and semesters.
+Use one shared project board as the central place to track all OSPO activities across repositories and teams.
 
 2. **Standardize work intake using GitHub Issues:**
 Represent tasks as issues and link them to the project board, ensuring required fields and context are captured consistently.
@@ -61,10 +63,14 @@ Use “good first issue” labels to onboard new contributors and enable both in
 
 
 # Resulting Context
+**Positive Outcomes:**
++ The OSPO gains a clear and collaborative picture of ongoing work across all teams and repositories. Staff can easily report progress and plan across projects. 
++ Work is publicly visible, enabling simplified reporting not only for the OSPO but also for funders and PIs. Ongoing tasks can be aligned with grant requirements and grant work plans.
++ Everyone on the team can see and comment on each other’s issues. This creates a sense of accountability and positive peer pressure, and it is extremely satisfying to complete each issue. 
++ Keeping work open makes it possible for those external to the OSPO to follow along and contribute. An instance of this has already occured, enabling international collaboration. 
 
-The OSPO gains a clear and collaborative picture of ongoing work across all teams and repositories. Staff can easily report progress and plan across semesters. 
-
-A potential trade-off is that contributors unfamiliar with GitHub Projects may need additional training at the start.
+**Potential Trade-offs:**
++ Contributors unfamiliar with GitHub Projects may require additional training at the start.
 
 # Known Instances
 
@@ -78,5 +84,8 @@ A potential trade-off is that contributors unfamiliar with GitHub Projects may n
 - Jood Alfadhel, George Washington University
   <https://orcid.org/0009-0000-2827-4036>
   
-- Sunil Shah (George Washington University OSPO)
+- David Lippert, George Washington University
+  <https://orcid.org/0009-0003-6444-9595>
+  
+- Sunil Shah, George Washington University
  <https://orcid.org/0009-0009-4567-8679>
