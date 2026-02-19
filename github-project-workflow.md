@@ -6,7 +6,7 @@ Utilizing Github Projects to publicly and transparently organize and manage OSPO
 
 # Problem / Challenge
 
-Academic OSPOs with a small staff or team of student workers face similar challenges to other organizations in managing their tasking and resources, but they face the additional challenge of trying to walk the walk of being open and transparent.  Extending open source best practices beyond software to open project management is an aspirational attempt at experiential learning for any OSPO team.
+Academic OSPOs with a small staff or team of student workers face similar challenges to other organizations in managing their tasking and resources, but they face the additional challenge of trying to walk the walk of being open and transparent.  Extending open source best practices beyond software to open project management is an aspirational attempt at experiential learning where even non technical staff can learn git and GitHub as their team manages issues in the open.
 
 # Pattern Category
 - Community Building
