@@ -19,13 +19,13 @@ Academic OSPOs are responsible for teaching students, faculty, and staff open so
 - Tools & Infrastructure
    
 # Context
-This pattern applies to university-based OSPOs that use GitHub as a primary collaboration platform and coordinate work across multiple contributors, such as staff, faculty, and student workers. It is especially relevant for OSPOs managing recurring activities across academic terms, including events, training, consultations, and open source projects.
+This pattern applies to university-based OSPOs that use GitHub as a primary collaboration platform and coordinate work across multiple contributors, such as staff, faculty, and student workers. It is very relevant for OSPOs managing recurring activities, including events, training, consultations, and open source projects.
 
 # Forces
-+ **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information (students, contracts) that cannot be fully public.
++ **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information that cannot be fully public.
 + **Learning curve:** GitHub Projects requires contributors to learn a new tool, which can be challenging in academic OSPOs where students and short-term contributors rotate frequently.
-+ **Timely updates:** Project boards are only useful if issues are consistently updated, which can be difficult to maintain alongside daily OSPO work.
-+ **Tracking sub-issues:** Many OSPO tasks involve dependencies and subtasks, which can be difficult to represent clearly without added structure.
++ **Timely updates:** Project boards are only useful if issues are consistently updated, which can be difficult to maintain.
++ **Tracking sub-issues:** Many OSPO tasks involve subtasks, which can be difficult to represent clearly without added structure.
 + **Tool integration gaps:** Limited integration with tools like Slack, Gmail, or Logseq can cause work to be discussed or tracked outside GitHub, reducing visibility.
 
 # Solution
@@ -39,10 +39,10 @@ Use an organization-level project board to make all OSPO work visible, allowing 
 Program coordinators and technical team members use the project regularly to plan, update, and coordinate work, establishing shared habits and accountability.
 
 + **Onboarding and collaboration:**
-Label “good first issues” to support student onboarding and enable external collaborators to participate in discussions and task tracking.
+Label “good first issues” to support student onboarding and task tracking, as well as enable external collaborators to participate in discussions. 
 
 + **Simplified planning and reporting:**
-Project views, milestones, and iterations provide a lightweight way to track progress over time and generate reports without additional tools.
+Project views, milestones, and iterations provide a straightforward way to track progress over time and generate reports without additional tools.
 
 ### Key steps include:
 
@@ -50,10 +50,10 @@ Project views, milestones, and iterations provide a lightweight way to track pro
 Use one shared project board as the central place to track all OSPO activities across repositories and teams.
 
 2. **Standardize work intake using GitHub Issues:**
-Represent tasks as issues and link them to the project board, ensuring required fields and context are captured consistently.
+Represent tasks as issues and link them to the project board, including required fields, such as assignees, ticket, and project details. 
 
 3. **Structure work with labels, milestones, and iterations:**
-Apply labels for work type and priority, use milestones for major deliverables, and iterations to align work with academic terms.
+Apply labels for work type and priority, use milestones for large deliverables, and iterations to plan work over time. 
 
 4. **Streamline managment of multiple repositories:**
 Github enables issues from any repository to be managed within any project. 
