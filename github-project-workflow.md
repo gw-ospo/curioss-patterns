@@ -20,7 +20,7 @@ Academic OSPOs often manage and plan a multitude of events, workshops, consultat
 This pattern applies to university-based OSPOs that use GitHub as a primary collaboration platform and coordinate work across multiple contributors, such as staff, faculty, and student workers. It is especially relevant for OSPOs managing recurring activities across academic terms, including events, training, consultations, and open source projects.
 
 # Forces
-+ **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information (students, partners, contracts) that cannot be fully public.
++ **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information (students, contracts) that cannot be fully public.
 + **Learning curve:** GitHub Projects requires contributors to learn and follow a structured workflow, which can be challenging in academic OSPOs where students and short-term contributors rotate frequently.
 + **Timely updates:** Project boards are only useful if issues are consistently updated, which can be difficult to maintain alongside daily OSPO work.
 + **Tracking sub-issues:** Many OSPO tasks involve dependencies and subtasks, which can be difficult to represent clearly without added structure.
@@ -53,10 +53,10 @@ Represent tasks as issues and link them to the project board, ensuring required 
 3. **Structure work with labels, milestones, and iterations:**
 Apply labels for work type and priority, use milestones for major deliverables, and iterations to align work with academic terms.
 
-4. **Leverage automation to reduce maintenance overhead:**
-Configure built-in automation so new, assigned, and closed issues automatically update project status.
+4. **Streamline managment of multiple repositories:**
+Github enables issues from any repository to be managed within any project. 
 
-5. **Support onboarding and collaboration:**
+6. **Support onboarding and collaboration:**
 Use “good first issue” labels to onboard new contributors and enable both internal and external collaborators to participate openly.
 
 
