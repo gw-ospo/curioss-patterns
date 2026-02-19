@@ -6,9 +6,7 @@ Utilizing Github Projects to publicly and transparently organize and manage OSPO
 
 # Problem / Challenge
 
-Academic OSPOs often manage and plan a multitude of events, workshops, consultations, and training. In addition to managing tools, resources, and repositories. Without a shared and open-source workflow system, information can be scattered and disorganized. OSPOs need clear, transparent, and open ways of managing and organizing work. 
-
-Academic OSPOs are responsible for teaching students, faculty, and staff open source best practices. For OSPOs that want to apply open source best practices is to explore if open source best practices can apply to project management. 
+Academic OSPOs with a small staff or team of student workers face similar challenges to other organizations in managing their tasking and resources, but they face the additional challenge of trying to walk the walk of being open and transparent.  Extending open source best practices beyond software to open project management is an aspirational attempt at experiential learning for any OSPO team.
 
 # Pattern Category
 - Community Building
